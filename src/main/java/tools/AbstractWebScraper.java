@@ -1,9 +1,12 @@
 package tools;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.net.URL;
+import java.util.Scanner;
 
 import org.json.simple.JSONObject;
 import org.jsoup.Jsoup;
@@ -20,16 +23,34 @@ public abstract class AbstractWebScraper {
 	public AbstractWebScraper(String browserVersion, String url) {
 		fBrowserVersion = browserVersion;
 		fUrl = url;
+
+		BufferedReader br = null;
+		String content = null;
 		try {
-			// connect to web through browser and build Jsoup Document object with html file
-			// at the url
-			fDocument = Jsoup.connect(fUrl).userAgent(fBrowserVersion).get();
-		} catch (IOException e) {
-			System.out.println("Error occurred while trying to connect to " + fUrl
-					+ "in tools.AbstractWebScraper.AbstractWebScraper()");
+			Scanner scanner = new Scanner(new URL(fUrl).openConnection().getInputStream());
+			while (scanner.hasNextLine()) {
+				String line = scanner.nextLine();
+				content = content + line;
+			}
+
+			fDocument = Jsoup.parse(content);
+			scrapeData();
+		} catch (Exception e) {
+			System.out.println("Error occurred while trying to scrape data from " + fUrl
+					+ " in tools.AbstractWebScraper.AbstractWebScraper()");
 			e.printStackTrace();
 		}
-		scrapeData();
+
+//		try {
+//			// connect to web through browser and build Jsoup Document object with html file
+//			// at the url
+//			fDocument = Jsoup.connect(fUrl).userAgent(fBrowserVersion).execute().parse();
+//		} catch (IOException e) {
+//			System.out.println("Error occurred while trying to connect to " + fUrl
+//					+ " in tools.AbstractWebScraper.AbstractWebScraper()");
+//			e.printStackTrace();
+//		}
+
 	}
 
 	protected String getUrl() {
@@ -77,8 +98,13 @@ public abstract class AbstractWebScraper {
 
 			// use Jackson PrettyPrinter to format the JSON nicely (so that it isn't all in
 			// one ugly line)
-			file.write(new ObjectMapper().writerWithDefaultPrettyPrinter().writeValueAsString(json));
+
+			file.write(new ObjectMapper().writeValueAsString(json));
 			file.flush();
+
+			// file.write(new
+			// ObjectMapper().writerWithDefaultPrettyPrinter().writeValueAsString(json));
+			// file.flush();
 
 		} catch (IOException e) {
 			System.out.println("Error while writing JSON file (tools.AbstractWebScraper.writeJSON()");
