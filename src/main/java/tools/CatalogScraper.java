@@ -50,21 +50,21 @@ public class CatalogScraper extends AbstractWebScraper {
 						// System.out.println(basicInfo); // show live progress
 
 						// subject and number get their own fields for easier search implementation
-						jsonCourse.put("Subject", basicInfo.substring(0, 4)); // e.g. ACCT
-						jsonCourse.put("Number", basicInfo.substring(5, basicInfo.indexOf(". "))); // e.g. 2013
+						jsonCourse.put("subject", basicInfo.substring(0, 4)); // e.g. ACCT
+						jsonCourse.put("number", basicInfo.substring(5, basicInfo.indexOf(". "))); // e.g. 2013
 
 						// unique identifier, for easy linking to prereqs (subject code + course #, eg:
-						// ACCT 2013)
-						jsonCourse.put("UID", basicInfo.substring(0, basicInfo.indexOf(". ")));
+						// ACCT2013)
+						jsonCourse.put("id", basicInfo.substring(0, basicInfo.indexOf(". ")).replaceAll(" ", ""));
 
 						basicInfo = basicInfo.substring(basicInfo.indexOf(". ") + 1).stripLeading();
-						jsonCourse.put("Name", basicInfo.substring(0, basicInfo.indexOf(". ")));
+						jsonCourse.put("name", basicInfo.substring(0, basicInfo.indexOf(". ")));
 
 						basicInfo = basicInfo.substring(basicInfo.indexOf(". ") + 1).stripLeading();
-						jsonCourse.put("Hours", basicInfo.substring(0, basicInfo.indexOf(" Hour")));
+						jsonCourse.put("hours", basicInfo.substring(0, basicInfo.indexOf(" Hour")));
 
 						Element description = course.get(j).select("p:eq(1)").get(0);
-						jsonCourse.put("Description", description.text());
+						jsonCourse.put("description", description.text());
 
 						// prerequisites are stored in an array of html elements within the description;
 						// pop elements off until the list is empty and collect the UIDs of the prereq
@@ -77,7 +77,7 @@ public class CatalogScraper extends AbstractWebScraper {
 							}
 							htmlPrereqs.remove(0);
 						}
-						jsonCourse.put("Prerequisites", jsonPrereqs);
+						jsonCourse.put("prerequisites", jsonPrereqs);
 
 						JSON_COURSE_LIST.add(jsonCourse);
 					}
