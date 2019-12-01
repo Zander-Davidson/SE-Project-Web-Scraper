@@ -1,0 +1,864 @@
+{
+  "Programs" : [ {
+    "Requirements" : [ "ACCTÂ 3533", "ACCTÂ 3723", "ACCTÂ 3753", "ACCTÂ 3843", "ACCTÂ 4203", "ACCTÂ 4673", "ACCTÂ 4963", "ACCTÂ 310V", "ACCTÂ 410V", "ACCTÂ 4003H", "ACCTÂ 4703", "ACCTÂ 4883", "ISYSÂ 4213", "FINNÂ 3013", "FINNÂ 3623", "FINNÂ 3053" ],
+    "Name" : "Requirements for B.S.B.A. in Accounting"
+  }, {
+    "Requirements" : [ "ACCTÂ 3723", "ACCTÂ 3753", "ACCTÂ 3843", "ACCTÂ 3533", "ACCTÂ 4203", "ACCTÂ 4673", "ACCTÂ 4703", "ACCTÂ 4963" ],
+    "Name" : "Minor in Accounting for Business Students"
+  }, {
+    "Requirements" : [ "ACCTÂ 5413", "ACCTÂ 5433", "ACCTÂ 5953", "ACCTÂ 5873" ],
+    "Name" : "B.S.B.A./M.Acc. Integrated Program"
+  }, {
+    "Requirements" : [ "AASTÂ 1003", "AASTÂ 3023", "AASTÂ 3123", "AASTÂ 3923H", "AASTÂ 399VH", "AASTÂ 4003", "AASTÂ 4003H", "AASTÂ 489V", "AASTÂ 499V", "ANTH/AAST 4063", "ANTH/AAST/WLLC 4073", "ANTH/AAST 4083", "ANTHÂ 4513", "ANTHÂ 4583", "ENGL/AAST 3853", "ENGL/AAST 4853", "JOUR/AAST/COMM/ENGL 3263", "JOUR/AAST 4923", "HIST/AAST 3183", "HIST/AAST 3193", "HIST/AAST 3233", "HIST/AAST 3243", "HIST/AAST 3253", "HIST/AAST 4093", "HIST/AAST 4123", "HIST/AAST 4263", "HIST/AAST 4273", "HIST/AAST 4383", "HIST/AAST 4483", "HIST/AAST 4563", "HIST/AAST 4573", "HIST/AAST 4823", "HIST/AAST 4953", "HIST/AAST 4963", "PLSC/AAST 3283", "PLSC/AAST 3293", "PLSC/AAST 4323", "PLSC/AAST 4933", "SCWK/AAST 4163", "SCWK/AAST 4173", "SOCI/AAST 4153", "SWAHÂ 1003", "SWAHÂ 1013", "SWAHÂ 1116", "SWAHÂ 2003", "SWAHÂ 2013", "SWAHÂ 2116", "THTR/AAST 4463", "WCOBÂ 3033" ],
+    "Name" : "Requirements for Second Major in African and African American Studies"
+  }, {
+    "Requirements" : [ "AASTÂ 1003" ],
+    "Name" : "Minor in African and African American Studies"
+  }, {
+    "Requirements" : [ "COMMÂ 1313", "AGEDÂ 3143", "AGEDÂ 4003", "AGEDÂ 4343", "COMMÂ 2303", "COMMÂ 2323", "COMMÂ 2343", "COMMÂ 3383", "CSESÂ 3023", "ENGLÂ 2003", "ENGLÂ 2013", "ENGLÂ 3053", "MATHÂ 2043", "PSYCÂ 2003", "SOCIÂ 2013", "HDFSÂ 2603", "AGECÂ 1103", "ECONÂ 2023", "AGECÂ 2103", "ECONÂ 2013", "AGECÂ 2142 AGECÂ 2141L", "AGECÂ 2303", "AGECÂ 3303", "AGECÂ 3403", "AGECÂ 3503", "AGECÂ 3413", "AGECÂ 4163", "AGECÂ 4603", "AGECÂ 4613", "AGECÂ 4623", "AGECÂ 3313", "AGECÂ 3373", "AGECÂ 4113", "AGECÂ 4303", "AGECÂ 4373", "AGECÂ 4383", "AGECÂ 4603", "AGECÂ 4143", "AGECÂ 4313", "AGECÂ 4323", "AGECÂ 4403" ],
+    "Name" : "Requirements for B.S.A. in Agricultural Business with Agricultural Economics Concentration"
+  }, {
+    "Requirements" : [ "COMMÂ 1313", "AGEDÂ 3143", "AGEDÂ 4003", "AGEDÂ 4343", "COMMÂ 2303", "COMMÂ 2323", "COMMÂ 2343", "COMMÂ 3383", "CSESÂ 3023", "ENGLÂ 2003", "ENGLÂ 2013", "ENGLÂ 3053", "MATHÂ 2043", "PSYCÂ 2003", "SOCIÂ 2013", "HDFSÂ 2603", "AGECÂ 1103", "ECONÂ 2023", "AGECÂ 2103", "ECONÂ 2013", "AGECÂ 2142 AGECÂ 2141L", "AGECÂ 2303", "AGECÂ 3303", "AGECÂ 3403", "AGECÂ 3503", "AGECÂ 3413", "AGECÂ 4163", "AGECÂ 4603", "AGECÂ 4613", "AGECÂ 4623", "AGECÂ 3313", "AGECÂ 3373", "AGECÂ 4113", "AGECÂ 4303", "AGECÂ 4373", "AGECÂ 4383", "AGECÂ 4603", "AGECÂ 4143", "AGECÂ 4313", "AGECÂ 4323", "AGECÂ 4403" ],
+    "Name" : "Requirements for B.S.A. in Agricultural Business with Management and Marketing Concentration"
+  }, {
+    "Requirements" : [ "COMMÂ 1313", "AGEDÂ 3143", "AGEDÂ 4003", "AGEDÂ 4343", "COMMÂ 2303", "COMMÂ 2323", "COMMÂ 2343", "COMMÂ 3383", "CSESÂ 3023", "ENGLÂ 2003", "ENGLÂ 2013", "ENGLÂ 3053", "MATHÂ 2043", "PSYCÂ 2003", "SOCIÂ 2013", "HDFSÂ 2603", "AGECÂ 1103", "ECONÂ 2023", "AGECÂ 2103", "ECONÂ 2013", "AGECÂ 2142 AGECÂ 2141L", "AGECÂ 2303", "AGECÂ 3303", "AGECÂ 3403", "AGECÂ 3503", "AGECÂ 3413", "AGECÂ 4163", "AGECÂ 4603", "AGECÂ 4613", "AGECÂ 4623", "AGECÂ 3313", "AGECÂ 3373", "AGECÂ 4113", "AGECÂ 4303", "AGECÂ 4373", "AGECÂ 4383", "AGECÂ 4603", "AGECÂ 4143", "AGECÂ 4313", "AGECÂ 4323", "AGECÂ 4403" ],
+    "Name" : "Requirements for B.S.A. in Agricultural Business with Pre-Law Concentration"
+  }, {
+    "Requirements" : [ "AGECÂ 1103", "AGECÂ 2103", "AGECÂ 2303", "AGECÂ 3303", "AGECÂ 3313", "AGECÂ 3373", "AGECÂ 3403", "AGECÂ 3413", "AGECÂ 4313", "AGECÂ 4323", "ECONÂ 3033", "ECONÂ 3133", "MATHÂ 2043", "POSCÂ 4213" ],
+    "Name" : "Minor in Agricultural Business"
+  }, {
+    "Requirements" : [ "AGECÂ 4163", "AGECÂ 4623", "ECONÂ 3843", "ECONÂ 3853", "ECONÂ 4633" ],
+    "Name" : "Minor in International Economic Development"
+  }, {
+    "Requirements" : [ "UNIVÂ 1001", "MATHÂ 1203", "BIOLÂ 1543 BIOLÂ 1541L", "CHEMÂ 1073 CHEMÂ 1071L", "AGECÂ 1103", "PSYCÂ 2003", "AGMEÂ 1613", "AGMEÂ 2903", "AGEDÂ 3133", "AGEDÂ 3143", "AGEDÂ 3153", "AGEDÂ 4003", "AGEDÂ 475V", "ANSCÂ 1032 ANSCÂ 1051", "ENSCÂ 1003", "ENTOÂ 1023", "HORTÂ 2003", "POSCÂ 2343", "FDSCÂ 2603", "PLPAÂ 3004" ],
+    "Name" : "Requirements for B.S.A. with Agricultural Communications Concentration"
+  }, {
+    "Requirements" : [ "UNIVÂ 1001", "MATHÂ 1203", "BIOLÂ 1543 BIOLÂ 1541L", "CHEMÂ 1073 CHEMÂ 1071L", "AGECÂ 1103", "PSYCÂ 2003", "AGMEÂ 1613", "AGMEÂ 2903", "AGEDÂ 3133", "AGEDÂ 3143", "AGEDÂ 3153", "AGEDÂ 4003", "AGEDÂ 475V", "ANSCÂ 1032 ANSCÂ 1051", "ENSCÂ 1003", "ENTOÂ 1023", "HORTÂ 2003", "POSCÂ 2343", "FDSCÂ 2603", "PLPAÂ 3004" ],
+    "Name" : "Requirements for B.S.A. with Agricultural Education Concentration"
+  }, {
+    "Requirements" : [ "UNIVÂ 1001", "MATHÂ 1203", "BIOLÂ 1543 BIOLÂ 1541L", "CHEMÂ 1073 CHEMÂ 1071L", "AGECÂ 1103", "PSYCÂ 2003", "AGMEÂ 1613", "AGMEÂ 2903", "AGEDÂ 3133", "AGEDÂ 3143", "AGEDÂ 3153", "AGEDÂ 4003", "AGEDÂ 475V", "ANSCÂ 1032 ANSCÂ 1051", "ENSCÂ 1003", "ENTOÂ 1023", "HORTÂ 2003", "POSCÂ 2343", "FDSCÂ 2603", "PLPAÂ 3004" ],
+    "Name" : "Requirements for B.S.A. with Agricultural Leadership Concentration"
+  }, {
+    "Requirements" : [ "UNIVÂ 1001", "MATHÂ 1203", "BIOLÂ 1543 BIOLÂ 1541L", "CHEMÂ 1073 CHEMÂ 1071L", "AGECÂ 1103", "PSYCÂ 2003", "AGMEÂ 1613", "AGMEÂ 2903", "AGEDÂ 3133", "AGEDÂ 3143", "AGEDÂ 3153", "AGEDÂ 4003", "AGEDÂ 475V", "ANSCÂ 1032 ANSCÂ 1051", "ENSCÂ 1003", "ENTOÂ 1023", "HORTÂ 2003", "POSCÂ 2343", "FDSCÂ 2603", "PLPAÂ 3004" ],
+    "Name" : "Requirements for B.S.A. with Agricultural Systems Technology Management Concentration"
+  }, {
+    "Requirements" : [ "AGEDÂ 2143", "AGEDÂ 3143", "JOURÂ 1033", "AGEDÂ 3243", "AGEDÂ 3943", "AGEDÂ 4143", "AGEDÂ 4243", "AGEDÂ 4343", "AGEDÂ 4543" ],
+    "Name" : "Minor in Agricultural Communications"
+  }, {
+    "Requirements" : [ "AGEDÂ 1123", "AGEDÂ 3133", "AGEDÂ 3162", "AGEDÂ 4231", "AGEDÂ 3161L", "AGEDÂ 4211", "AGEDÂ 3111", "AGEDÂ 4843", "CIEDÂ 3033", "CIEDÂ 3023" ],
+    "Name" : "Minor in Agricultural Education"
+  }, {
+    "Requirements" : [ "AGEDÂ 2143", "AGEDÂ 3153", "AGEDÂ 4153", "AGECÂ 3313", "AGEDÂ 3133", "AGEDÂ 3943", "AGEDÂ 4163", "AGEDÂ 4443", "EXEDÂ 4183" ],
+    "Name" : "Minor in Agricultural Leadership"
+  }, {
+    "Requirements" : [ "AGMEÂ 1613", "AGMEÂ 2903", "AGMEÂ 1611L", "AGMEÂ 2123", "AGMEÂ 3153", "AGMEÂ 3102 AGMEÂ 3101L", "AGMEÂ 3173", "AGMEÂ 4203", "AGMEÂ 4973", "ENSCÂ 3603" ],
+    "Name" : "Minor in Agricultural Systems Technology Management"
+  }, {
+    "Requirements" : [ "UNIVÂ 1001", "ENGLÂ 1013", "ENGLÂ 1023", "HISTÂ 2003", "MATHÂ 1203", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 2013 BIOLÂ 2011L", "CHEMÂ 1073 CHEMÂ 1071L", "CHEMÂ 2613 CHEMÂ 2611L", "ANSCÂ 1001L", "ANSCÂ 1032", "ANSCÂ 1041", "ANSCÂ 2252L", "ANSCÂ 2781", "ANSCÂ 3133", "ANSCÂ 3143", "ANSCÂ 3433", "ANSCÂ 4142", "ANSCÂ 4252", "ANSCÂ 4262", "ANSCÂ 4272", "ANSCÂ 4283", "ANSCÂ 4452", "ANSCÂ 4482", "ANSCÂ 4652", "ANSCÂ 3003", "ANSCÂ 3013", "ANSCÂ 3032", "ANSCÂ 3042", "ANSCÂ 3123", "ANSCÂ 3152 ANSCÂ 3151L", "ANSCÂ 3333", "ANSCÂ 3613", "ANSCÂ 4163", "ANSCÂ 4303", "ANSCÂ 4552", "ANSCÂ 2003", "ANSCÂ 2213", "ANSCÂ 2303L", "ANSCÂ 3072", "ANSCÂ 3282", "ANSCÂ 3291", "ANSCÂ 3491L", "ANSCÂ 3723", "ANSCÂ 3753", "ANSCÂ 400V", "ANSCÂ 401V", "ANSCÂ 4072", "ANSCÂ 410V", "ANSCÂ 4123", "ANSCÂ 4173", "ANSCÂ 4291", "AFLSÂ 400VH", "AGECÂ 1103", "AGECÂ 2103", "AGECÂ 2303", "AGMEÂ 2903", "BIOLÂ 1601L", "BIOLÂ 1603", "BIOLÂ 2531L", "BIOLÂ 2533", "CSESÂ 1203", "CSESÂ 2013", "CHEMÂ 1101L", "CHEMÂ 1103", "CHEMÂ 1121L", "CHEMÂ 1123", "CHEMÂ 2261L", "CHEMÂ 2263", "MATHÂ 1213", "PHYSÂ 2011L", "PHYSÂ 2013", "PHYSÂ 2031L", "PHYSÂ 2033", "POSCÂ 2353", "BLAWÂ 2013", "ACCTÂ 2013" ],
+    "Name" : "Requirements for B.S.A. in Animal Science"
+  }, {
+    "Requirements" : [ "UNIVÂ 1001", "ENGLÂ 1013", "ENGLÂ 1023", "COMMÂ 1313", "HISTÂ 2003", "MATHÂ 1213", "BIOLÂ 1543 BIOLÂ 1541L", "CHEMÂ 1123 CHEMÂ 1121L", "ANSCÂ 1001L", "ANSCÂ 1032", "ANSCÂ 1041", "ANSCÂ 2252L", "ANSCÂ 2781", "ANSCÂ 3123", "ANSCÂ 3143", "ANSCÂ 3433", "ANSCÂ 4142", "ANSCÂ 4252", "ANSCÂ 4262", "ANSCÂ 4272", "ANSCÂ 4283", "ANSCÂ 4452", "ANSCÂ 4482", "ANSCÂ 4652", "ANSCÂ 3003", "ANSCÂ 3013", "ANSCÂ 3133", "ANSCÂ 3152 ANSCÂ 3151L", "ANSCÂ 3333", "ANSCÂ 3613", "ANSCÂ 4163", "ANSCÂ 4303", "ANSCÂ 4552", "ANSCÂ 3032", "ANSCÂ 3042", "BIOLÂ 1603 BIOLÂ 1601L", "BIOLÂ 2013 BIOLÂ 2011L", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 3603 CHEMÂ 3601L", "CHEMÂ 3613 CHEMÂ 3611L", "CHEMÂ 3813", "PHYSÂ 2013 PHYSÂ 2011L", "PHYSÂ 2033 PHYSÂ 2031L", "BIOLÂ 2533", "MATHÂ 2554C", "STATÂ 2303", "ANSCÂ 2003", "ANSCÂ 2213", "ANSCÂ 2303L", "ANSCÂ 3072", "ANSCÂ 3282", "ANSCÂ 3291", "ANSCÂ 3491L", "ANSCÂ 3723", "ANSCÂ 3753", "ANSCÂ 400V", "ANSCÂ 401V", "ANSCÂ 4072", "ANSCÂ 410V", "ANSCÂ 4123", "ANSCÂ 4173", "ANSCÂ 4291", "AFLSÂ 400VH", "AGECÂ 1103", "AGECÂ 2103", "AGECÂ 2303", "AGMEÂ 2903", "BIOLÂ 2531L", "BIOLÂ 2533", "CSESÂ 1203", "CSESÂ 2013", "CHEMÂ 2261L", "CHEMÂ 2263", "POSCÂ 2353", "ACCTÂ 2013", "BLAWÂ 2013" ],
+    "Name" : "Requirements for B.S.A. in Animal Science with Pre-Professional Science Concentration"
+  }, {
+    "Requirements" : [ "UNIVÂ 1001", "ENGLÂ 1013", "ENGLÂ 1023", "HISTÂ 2003", "MATHÂ 1203", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 2013 BIOLÂ 2011L", "CHEMÂ 1073 CHEMÂ 1071L", "CHEMÂ 2613 CHEMÂ 2611L", "ANSCÂ 1001L", "ANSCÂ 1032", "ANSCÂ 1041", "ANSCÂ 2252L", "ANSCÂ 2781", "ANSCÂ 3133", "ANSCÂ 3143", "ANSCÂ 3433", "ANSCÂ 4142", "ANSCÂ 4252", "ANSCÂ 4262", "ANSCÂ 4272", "ANSCÂ 4452", "ANSCÂ 4482", "ANSCÂ 4652", "ANSCÂ 3003", "ANSCÂ 3013", "ANSCÂ 3032", "ANSCÂ 3042", "ANSCÂ 3123", "ANSCÂ 3152 ANSCÂ 3151L", "ANSCÂ 3333", "ANSCÂ 3613", "ANSCÂ 4163", "ANSCÂ 4303", "ANSCÂ 4552", "ANSCÂ 2003", "ANSCÂ 3072", "ANSCÂ 3723", "ANSCÂ 4173", "ANSCÂ 4283", "ANSCÂ 2213", "ANSCÂ 2303L", "ANSCÂ 3282", "ANSCÂ 3291", "ANSCÂ 3491L", "ANSCÂ 3753", "ANSCÂ 400V", "ANSCÂ 401V", "ANSCÂ 4072", "ANSCÂ 410V", "ANSCÂ 4123", "ANSCÂ 4291", "AFLSÂ 400VH", "AGECÂ 1103", "AGECÂ 2103", "AGECÂ 2303", "AGMEÂ 2903", "BIOLÂ 1601L", "BIOLÂ 1603", "BIOLÂ 2531L", "BIOLÂ 2533", "CSESÂ 1203", "CSESÂ 2013", "CHEMÂ 1101L", "CHEMÂ 1103", "CHEMÂ 1121L", "CHEMÂ 1123", "CHEMÂ 2261L", "CHEMÂ 2263", "MATHÂ 1213", "PHYSÂ 2011L", "PHYSÂ 2013", "PHYSÂ 2031L", "PHYSÂ 2033", "POSCÂ 2353", "ACCTÂ 2013", "BLAWÂ 2013" ],
+    "Name" : "Requirements for B.S.A. in Animal Science with Equine Concentration"
+  }, {
+    "Requirements" : [ "ANSCÂ 1032", "ANSCÂ 3032", "ANSCÂ 3133", "ANSCÂ 3143", "ANSCÂ 4283", "ANSCÂ 2303L", "ANSCÂ 3072", "ANSCÂ 3723", "ANSCÂ 401V", "ANSCÂ 4123", "ANSCÂ 4173" ],
+    "Name" : "Minor in Equine Science"
+  }, {
+    "Requirements" : [ "ANSCÂ 1001L", "ANSCÂ 1032", "ANSCÂ 1041", "ANSCÂ 2252L", "ANSCÂ 3133", "ANSCÂ 3143", "ANSCÂ 3433", "ANSCÂ 4252", "ANSCÂ 4262", "ANSCÂ 4272", "ANSCÂ 4283", "ANSCÂ 4452", "ANSCÂ 4652" ],
+    "Name" : "Minor in Animal Science"
+  }, {
+    "Requirements" : [ "ANTHÂ 1013 ANTHÂ 1011L", "ANTHÂ 1023", "ANTHÂ 1033", "ANTHÂ 4013", "", "MATHÂ 1213", "MATHÂ 2554", "MATHÂ 2564" ],
+    "Name" : "Requirements for B.S. in Anthropology"
+  }, {
+    "Requirements" : [ "ANTHÂ 1013", "ANTHÂ 1011L", "ANTHÂ 1023", "ANTHÂ 1033", "ANTHÂ 4013" ],
+    "Name" : "Requirements for B.A. in Anthropology"
+  }, {
+    "Requirements" : [ "ENGLÂ 1013", "ENGLÂ 1023", "COMMÂ 1313", "MATHÂ 1203", "ECONÂ 2143", "PSYCÂ 2003", "ANTHÂ 1023", "HESCÂ 1501", "NUTRÂ 1213", "HDFSÂ 2413", "AMPDÂ 1013", "AMPDÂ 1023", "AMPDÂ 2013", "AMPDÂ 2033", "AMPDÂ 2053", "AMPDÂ 2063", "AMPDÂ 3003", "AMPDÂ 3033", "AMPDÂ 3043", "AMPDÂ 3071", "AMPDÂ 4023", "AMPDÂ 4033L", "AMPDÂ 4053", "AMPDÂ 4063", "AMPDÂ 4082", "AMPDÂ 4093", "AMPDÂ 4901", "AMPDÂ 491V", "AGMEÂ 2903", "AGEDÂ 4243", "AMPDÂ 4011", "AMPDÂ 4103", "AMPDÂ 4111", "MKTGÂ 3433" ],
+    "Name" : "Requirements for B.S.H.E.S. in Apparel Studies and Product Development"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for Bachelor of Architecture"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for B.S. in Architectural Studies"
+  }, {
+    "Requirements" : [ "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4563", "ARHSÂ 4573", "ARHSÂ 4733", "ARHSÂ 4743", "ARHSÂ 4753", "ARHSÂ 4833", "ARHSÂ 4843", "ARHSÂ 4853", "ARHSÂ 4863", "ARHSÂ 4873", "ARHSÂ 4983", "ARHSÂ 4763", "ARHSÂ 4813", "ARHSÂ 4883", "ARHSÂ 4893", "ARHSÂ 4913", "ARHSÂ 4923", "ARHSÂ 4933", "ARHSÂ 4993" ],
+    "Name" : "Requirements for B.A. in Art History"
+  }, {
+    "Requirements" : [ "COMMÂ 1313", "PHILÂ 2003", "PHILÂ 4403", "ARTSÂ 1919C", "ARTSÂ 1929C", "AREDÂ 4773", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4933" ],
+    "Name" : "Requirements for B.F.A. in Art Education with Concentration in Community Practice"
+  }, {
+    "Requirements" : [ "COMMÂ 1313", "PHILÂ 2003", "PHILÂ 4403", "PSYCÂ 2003", "ARTSÂ 1919C", "ARTSÂ 1929C", "AREDÂ 4773", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4933" ],
+    "Name" : "Requirements for B.F.A. in Art Education with Concentration in K-12 Teaching"
+  }, {
+    "Requirements" : [ "ARTSÂ 1919C", "ARTSÂ 1929C", "GDESÂ 2313", "GDESÂ 3313", "GDESÂ 3323", "GDESÂ 3383", "GDESÂ 4343", "GDESÂ 4303", "GDESÂ 4313", "GDESÂ 4323", "GDESÂ 4353", "GDESÂ 4363", "GDESÂ 4373", "GDESÂ 4383", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4823", "ARHSÂ 4933", "PHILÂ 2003" ],
+    "Name" : "Requirements for B.F.A. in Graphic Design"
+  }, {
+    "Requirements" : [ "ARTSÂ 1919C", "ARTSÂ 1929C", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4563", "ARHSÂ 4573", "ARHSÂ 4733", "ARHSÂ 4743", "ARHSÂ 4753", "ARHSÂ 4833", "ARHSÂ 4843", "ARHSÂ 4853", "ARHSÂ 4863", "ARHSÂ 4873", "ARHSÂ 4983", "ARHSÂ 4763", "ARHSÂ 4813", "ARHSÂ 4823", "ARHSÂ 4883", "ARHSÂ 4893", "ARHSÂ 4913", "ARHSÂ 4923", "ARHSÂ 4933", "ARHSÂ 4993" ],
+    "Name" : "Requirements for B.A. in Studio Art"
+  }, {
+    "Requirements" : [ "ARTSÂ 1919C", "ARTSÂ 1929C", "ARTSÂ 4923", "PHILÂ 2003", "PHILÂ 4403", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4933" ],
+    "Name" : "Requirements for B.F.A. in Studio Art"
+  }, {
+    "Requirements" : [ "ARHSÂ 2913", "ARHSÂ 2923" ],
+    "Name" : "Minor in Art History"
+  }, {
+    "Requirements" : [ "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4563", "ARHSÂ 4573", "ARHSÂ 4733", "ARHSÂ 4743", "ARHSÂ 4753", "ARHSÂ 4833", "ARHSÂ 4843", "ARHSÂ 4853", "ARHSÂ 4863", "ARHSÂ 4873", "ARHSÂ 4983", "ARHSÂ 4763", "ARHSÂ 4813", "ARHSÂ 4883", "ARHSÂ 4893", "ARHSÂ 4913", "ARHSÂ 4923", "ARHSÂ 4933", "ARHSÂ 4993" ],
+    "Name" : "Requirements for B.A. in Art History"
+  }, {
+    "Requirements" : [ "COMMÂ 1313", "PHILÂ 2003", "PHILÂ 4403", "ARTSÂ 1919C", "ARTSÂ 1929C", "AREDÂ 4773", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4933" ],
+    "Name" : "Requirements for B.F.A. in Art Education with Concentration in Community Practice"
+  }, {
+    "Requirements" : [ "COMMÂ 1313", "PHILÂ 2003", "PHILÂ 4403", "PSYCÂ 2003", "ARTSÂ 1919C", "ARTSÂ 1929C", "AREDÂ 4773", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4933" ],
+    "Name" : "Requirements for B.F.A. in Art Education with Concentration in K-12 Teaching"
+  }, {
+    "Requirements" : [ "ARTSÂ 1919C", "ARTSÂ 1929C", "GDESÂ 2313", "GDESÂ 3313", "GDESÂ 3323", "GDESÂ 3383", "GDESÂ 4343", "GDESÂ 4303", "GDESÂ 4313", "GDESÂ 4323", "GDESÂ 4353", "GDESÂ 4363", "GDESÂ 4373", "GDESÂ 4383", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4823", "ARHSÂ 4933", "PHILÂ 2003" ],
+    "Name" : "Requirements for B.F.A. in Graphic Design"
+  }, {
+    "Requirements" : [ "ARTSÂ 1919C", "ARTSÂ 1929C", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4563", "ARHSÂ 4573", "ARHSÂ 4733", "ARHSÂ 4743", "ARHSÂ 4753", "ARHSÂ 4833", "ARHSÂ 4843", "ARHSÂ 4853", "ARHSÂ 4863", "ARHSÂ 4873", "ARHSÂ 4983", "ARHSÂ 4763", "ARHSÂ 4813", "ARHSÂ 4823", "ARHSÂ 4883", "ARHSÂ 4893", "ARHSÂ 4913", "ARHSÂ 4923", "ARHSÂ 4933", "ARHSÂ 4993" ],
+    "Name" : "Requirements for B.A. in Studio Art"
+  }, {
+    "Requirements" : [ "ARTSÂ 1919C", "ARTSÂ 1929C", "ARTSÂ 4923", "PHILÂ 2003", "PHILÂ 4403", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4933" ],
+    "Name" : "Requirements for B.F.A. in Studio Art"
+  }, {
+    "Requirements" : [ "ARHSÂ 2913", "ARHSÂ 2923" ],
+    "Name" : "Minor in Art History"
+  }, {
+    "Requirements" : [ "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4563", "ARHSÂ 4573", "ARHSÂ 4733", "ARHSÂ 4743", "ARHSÂ 4753", "ARHSÂ 4833", "ARHSÂ 4843", "ARHSÂ 4853", "ARHSÂ 4863", "ARHSÂ 4873", "ARHSÂ 4983", "ARHSÂ 4763", "ARHSÂ 4813", "ARHSÂ 4883", "ARHSÂ 4893", "ARHSÂ 4913", "ARHSÂ 4923", "ARHSÂ 4933", "ARHSÂ 4993" ],
+    "Name" : "Requirements for B.A. in Art History"
+  }, {
+    "Requirements" : [ "COMMÂ 1313", "PHILÂ 2003", "PHILÂ 4403", "ARTSÂ 1919C", "ARTSÂ 1929C", "AREDÂ 4773", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4933" ],
+    "Name" : "Requirements for B.F.A. in Art Education with Concentration in Community Practice"
+  }, {
+    "Requirements" : [ "COMMÂ 1313", "PHILÂ 2003", "PHILÂ 4403", "PSYCÂ 2003", "ARTSÂ 1919C", "ARTSÂ 1929C", "AREDÂ 4773", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4933" ],
+    "Name" : "Requirements for B.F.A. in Art Education with Concentration in K-12 Teaching"
+  }, {
+    "Requirements" : [ "ARTSÂ 1919C", "ARTSÂ 1929C", "GDESÂ 2313", "GDESÂ 3313", "GDESÂ 3323", "GDESÂ 3383", "GDESÂ 4343", "GDESÂ 4303", "GDESÂ 4313", "GDESÂ 4323", "GDESÂ 4353", "GDESÂ 4363", "GDESÂ 4373", "GDESÂ 4383", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4823", "ARHSÂ 4933", "PHILÂ 2003" ],
+    "Name" : "Requirements for B.F.A. in Graphic Design"
+  }, {
+    "Requirements" : [ "ARTSÂ 1919C", "ARTSÂ 1929C", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4563", "ARHSÂ 4573", "ARHSÂ 4733", "ARHSÂ 4743", "ARHSÂ 4753", "ARHSÂ 4833", "ARHSÂ 4843", "ARHSÂ 4853", "ARHSÂ 4863", "ARHSÂ 4873", "ARHSÂ 4983", "ARHSÂ 4763", "ARHSÂ 4813", "ARHSÂ 4823", "ARHSÂ 4883", "ARHSÂ 4893", "ARHSÂ 4913", "ARHSÂ 4923", "ARHSÂ 4933", "ARHSÂ 4993" ],
+    "Name" : "Requirements for B.A. in Studio Art"
+  }, {
+    "Requirements" : [ "ARTSÂ 1919C", "ARTSÂ 1929C", "ARTSÂ 4923", "PHILÂ 2003", "PHILÂ 4403", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4933" ],
+    "Name" : "Requirements for B.F.A. in Studio Art"
+  }, {
+    "Requirements" : [ "ARHSÂ 2913", "ARHSÂ 2923" ],
+    "Name" : "Minor in Art History"
+  }, {
+    "Requirements" : [ "CHINÂ 4313", "ECONÂ 3933", "ECONÂ 4633", "HISTÂ 3513", "HISTÂ 3523", "HISTÂ 4403", "HISTÂ 4553", "HISTÂ 4633", "HISTÂ 4853", "HISTÂ 4863", "HISTÂ 4903", "HISTÂ 4913", "HIST 4923/4923H", "HISTÂ 4933", "JAPNÂ 4213", "JAPN 4313/4313H", "MUSYÂ 4113H", "MUSYÂ 4313H", "MUSY 477V/477VH", "PLSCÂ 3503", "PLSCÂ 4823" ],
+    "Name" : "Requirements for Second Major in Asian Studies"
+  }, {
+    "Requirements" : [ "CHINÂ 4313", "ECONÂ 3933", "ECONÂ 4633", "HISTÂ 3513", "HISTÂ 3523", "HISTÂ 4553", "HIST 4633/4633H", "HISTÂ 4853", "HISTÂ 4863", "HIST 4903/4903H", "HIST 4913/4913H", "HIST 4923/4923H", "HIST 4933/4933H", "JAPNÂ 4213", "JAPN 4313/4313H", "MUSYÂ 4113H", "MUSYÂ 4313H", "MUSY 477V/477VH", "PLSCÂ 3503", "PLSCÂ 4823" ],
+    "Name" : "Minor in Asian Studies"
+  }, {
+    "Requirements" : [ "PLSCÂ 3503", "HISTÂ 3523", "AISTÂ 4003", "CHINÂ 3103", "CHINÂ 4313", "HISTÂ 3513", "HISTÂ 4403", "HISTÂ 4553", "HISTÂ 4633", "HISTÂ 4853", "HISTÂ 4863", "HISTÂ 4903", "HISTÂ 4913" ],
+    "Name" : "Minor in East Asian History and Politics"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for B.S. in Biology"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for B.A. in Biology"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for B.S. in Biological Engineering"
+  }, {
+    "Requirements" : [ "CVEGÂ 3243", "CVEGÂ 4243" ],
+    "Name" : "Requirements for B.S. in Biological Engineering with Environmental Concentration"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for B.S. in Biomedical Engineering"
+  }, {
+    "Requirements" : [ "UNIVÂ 1001", "ENGLÂ 1013", "ENGLÂ 1023", "COMMÂ 1313", "PSYCÂ 2003", "SOCIÂ 2013", "HDFSÂ 2413", "NUTRÂ 1213", "HDFSÂ 1423", "HDFSÂ 2403 HDFSÂ 2401L", "HDFSÂ 2433", "HDFSÂ 2473 HDFSÂ 2471L", "HDFSÂ 3333", "HDFSÂ 3453", "HDFSÂ 4313", "HDFSÂ 4332 4332L", "HDFSÂ 4342 4342L", "HDFSÂ 4373", "HDFSÂ 4383", "HDFSÂ 4463", "HDFSÂ 4763", "HDFSÂ 4773", "CIEDÂ 3023", "CIEDÂ 3103", "CIEDÂ 3113", "HISTÂ 3383", "SCWKÂ 3633", "SPEDÂ 4413", "SPEDÂ 4493", "CIEDÂ 499V" ],
+    "Name" : "Requirements for B.S.H.E.S. in Birth Through Kindergarten"
+  }, {
+    "Requirements" : [ "ACCTÂ 2013", "ACCTÂ 2023", "COMMÂ 1313", "ECONÂ 2013", "ECONÂ 2023", "ENGLÂ 1013", "ENGLÂ 1023", "MATHÂ 2043", "MATHÂ 2053", "WCOBÂ 1111", "ISYSÂ 1120", "WCOBÂ 1033", "BLAWÂ 2013", "ISYSÂ 2103", "FINNÂ 3043", "MGMTÂ 2103", "MGMTÂ 3013", "MKTGÂ 3433", "SCMTÂ 2103", "ECONÂ 4633", "ECONÂ 4643", "ECONÂ 3843", "ECONÂ 3853", "ECONÂ 3933", "ECONÂ 4173", "FINNÂ 3703", "MGMTÂ 4583", "MKTGÂ 4633", "SCMTÂ 3643" ],
+    "Name" : "General Requirements for B.S.I.B."
+  }, {
+    "Requirements" : [ "ACCTÂ 3723", "ACCTÂ 3753", "ACCTÂ 3843", "ACCTÂ 3533", "ACCTÂ 4673", "ACCTÂ 4753", "ACCTÂ 4963" ],
+    "Name" : "Requirements for Accounting Concentration"
+  }, {
+    "Requirements" : [ "ECONÂ 3033", "ECONÂ 3133", "ECONÂ 4333", "ECONÂ 4743" ],
+    "Name" : "Requirements for Business Economics Concentration"
+  }, {
+    "Requirements" : [ "FINNÂ 3053", "FINNÂ 3703", "FINNÂ 3063", "FINNÂ 4133" ],
+    "Name" : "Requirements for Finance Concentration"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for General Business Concentration"
+  }, {
+    "Requirements" : [ "ISYSÂ 2263", "ISYSÂ 3293", "ISYSÂ 3393", "ISYSÂ 4283" ],
+    "Name" : "Requirements for Information Systems Concentration"
+  }, {
+    "Requirements" : [ "MGMTÂ 4243", "MGMTÂ 4583" ],
+    "Name" : "Requirements for Management Concentration"
+  }, {
+    "Requirements" : [ "MKTGÂ 3553", "MKTGÂ 3633", "MKTGÂ 4633", "MKTGÂ 4853" ],
+    "Name" : "Requirements for Marketing Concentration"
+  }, {
+    "Requirements" : [ "MKTGÂ 3553", "MKTGÂ 3633", "MKTGÂ 4433", "MKTGÂ 4443", "MKTGÂ 4103", "MKTGÂ 4233", "MKTGÂ 4453", "MKTGÂ 4633", "SCMTÂ 3443" ],
+    "Name" : "Requirements for Retail Concentration"
+  }, {
+    "Requirements" : [ "SCMTÂ 3443", "SCMTÂ 3613", "SCMTÂ 3643" ],
+    "Name" : "Requirements for Supply Chain Management Concentration"
+  }, {
+    "Requirements" : [ "ECONÂ 3843", "ECONÂ 3853", "ECONÂ 3933", "ECONÂ 4633", "ECONÂ 4643", "ECONÂ 468V", "FINNÂ 3703", "MGMTÂ 4583", "MKTGÂ 4633", "SCMTÂ 3643" ],
+    "Name" : "Minor in International Business for Business Students"
+  }, {
+    "Requirements" : [ "PSYCÂ 2003", "ECONÂ 2013", "ECONÂ 2023", "MATHÂ 2053", "CIEDÂ 1013", "CIEDÂ 3023", "CIEDÂ 3033", "CATEÂ 3103", "CATEÂ 4013", "CATEÂ 4023", "CATEÂ 4033", "CATEÂ 4052", "CATEÂ 406X", "ACCTÂ 2013", "BLAWÂ 2013", "MGMTÂ 2053", "MKTGÂ 3433", "WCOBÂ 1033", "CATEÂ 4803", "COMMÂ 1313", "ISYSÂ 1120", "MATHÂ 1203", "CIEDÂ 1003", "CATEÂ 4073", "CATEÂ 5453", "CATEÂ 5463" ],
+    "Name" : "Requirements for B.S.E. in Career and Technical Education with Business Education Concentration"
+  }, {
+    "Requirements" : [ "PSYCÂ 2003", "MATHÂ 1203", "CHEMÂ 1103 CHEMÂ 1101L", "HDFSÂ 1403", "HDFSÂ 2413", "CIEDÂ 1013", "CIEDÂ 3023", "CIEDÂ 3033", "CATEÂ 3103", "CATEÂ 4013", "CATEÂ 4023", "CATEÂ 4033", "CATEÂ 4052", "CATEÂ 406X", "NUTRÂ 1213", "NUTRÂ 2113 NUTRÂ 2111L", "AMPDÂ 2053", "HDFSÂ 2433", "HDFSÂ 3453", "CATEÂ 3003", "CATEÂ 4803", "CIEDÂ 1003", "NUTRÂ 2203", "NUTRÂ 4243", "NUTRÂ 4223", "HDFSÂ 2403", "HDFSÂ 3423", "CIEDÂ 3053", "HDFSÂ 3443", "SCWKÂ 3233", "SCWKÂ 4143", "HDFSÂ 2483" ],
+    "Name" : "Requirements for B.S.E. in Career and Technical Education with Family and Consumer Sciences Education Concentration"
+  }, {
+    "Requirements" : [ "PSYCÂ 2003", "MATHÂ 2043", "PHYSÂ 2013 PHYSÂ 2011L", "CIEDÂ 1013", "CIEDÂ 3023", "CIEDÂ 3033", "CATEÂ 3103", "CATEÂ 4013", "CATEÂ 4023", "CATEÂ 4033", "CATEÂ 4052", "CATEÂ 406X", "AGMEÂ 3042", "AGMEÂ 3173", "STEMÂ 4033", "GNEGÂ 1122", "TEEDÂ 1103", "TEEDÂ 3303", "TEEDÂ 4103", "COMMÂ 1313", "GNEGÂ 1111", "GNEGÂ 1121", "INEGÂ 3513", "TEEDÂ 2103", "TEEDÂ 3203" ],
+    "Name" : "Requirements for B.S.E. in Career and Technical Education with Technology Education Concentration"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for B.S. in Chemical Engineering"
+  }, {
+    "Requirements" : [ "CHEMÂ 1203 CHEMÂ 1201L", "CHEMÂ 1223 CHEMÂ 1221L", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "CHEMÂ 2263 CHEMÂ 2261L", "CHEMÂ 3504", "CHEMÂ 3512L", "CHEMÂ 3514", "CHEMÂ 3703 CHEMÂ 3702L", "CHEMÂ 3713 CHEMÂ 3712L", "CHEMÂ 4123", "CHEMÂ 4213 CHEMÂ 4211L", "CHEMÂ 4723", "MATHÂ 2574", "PHYSÂ 2074" ],
+    "Name" : "Requirements for B.S. in Chemistry with Chemistry Concentration"
+  }, {
+    "Requirements" : [ "CHEMÂ 1203 CHEMÂ 1201L", "CHEMÂ 1223 CHEMÂ 1221L", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "CHEMÂ 2263 CHEMÂ 2261L", "CHEMÂ 3504", "CHEMÂ 3603 CHEMÂ 3601L", "CHEMÂ 3613 CHEMÂ 3611L", "CHEMÂ 3703 CHEMÂ 3702L", "CHEMÂ 3713 CHEMÂ 3712L", "CHEMÂ 3514 CHEMÂ 3512L", "CHEMÂ 4213 CHEMÂ 4211L", "CHEMÂ 4853", "CHEMÂ 400V", "MATHÂ 2554", "MATHÂ 2564", "PHYSÂ 2054", "PHYSÂ 2074", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 2533 BIOLÂ 2531L" ],
+    "Name" : "Requirements for B.S. in Chemistry with Biophysical Concentration"
+  }, {
+    "Requirements" : [ "CHEMÂ 1203 CHEMÂ 1201L", "CHEMÂ 1223 CHEMÂ 1221L", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "CHEMÂ 2263 CHEMÂ 2261L", "CHEMÂ 3504", "CHEMÂ 3514 CHEMÂ 3512L", "CHEMÂ 3453 CHEMÂ 3451L", "CHEMÂ 3703 CHEMÂ 3702L", "CHEMÂ 3713 CHEMÂ 3712L", "CHEMÂ 4853", "CHEMÂ 4213 CHEMÂ 4211L", "MATHÂ 2554", "MATHÂ 2564", "PHYSÂ 2013 PHYSÂ 2011L", "PHYSÂ 2033 PHYSÂ 2031L", "PHYSÂ 2054", "PHYSÂ 2074", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 2533 BIOLÂ 2531L", "BIOLÂ 2013 BIOLÂ 2011L", "BIOLÂ 4233" ],
+    "Name" : "Requirements for B.S. in Chemistry with Biochemistry Concentration"
+  }, {
+    "Requirements" : [ "CHEMÂ 1203 CHEMÂ 1201L CHEMÂ 1223 CHEMÂ 1221L", "CHEMÂ 1103 CHEMÂ 1101L CHEMÂ 1123 CHEMÂ 1121L", "CHEMÂ 2263 CHEMÂ 2261L", "CHEMÂ 3703 CHEMÂ 3702L CHEMÂ 3713 CHEMÂ 3712L", "CHEMÂ 3603 CHEMÂ 3601L CHEMÂ 3613 CHEMÂ 3611L", "CHEMÂ 3453 CHEMÂ 3451L", "CHEMÂ 3504 CHEMÂ 3514 CHEMÂ 3512L" ],
+    "Name" : "Requirements for B.A. in Chemistry with Chemistry Concentration"
+  }, {
+    "Requirements" : [ "CHEMÂ 1203 CHEMÂ 1201L CHEMÂ 1223 CHEMÂ 1221L", "CHEMÂ 1103", "CHEMÂ 2263 CHEMÂ 2261L", "CHEMÂ 3453 CHEMÂ 3451L", "CHEMÂ 3504 CHEMÂ 3514 CHEMÂ 3512L", "CHEMÂ 3603 CHEMÂ 3601L CHEMÂ 3613 CHEMÂ 3611L", "CHEMÂ 3703 CHEMÂ 3702L CHEMÂ 3713 CHEMÂ 3712L", "CHEMÂ 4853", "CHEMÂ 3813 CHEMÂ 4213 CHEMÂ 4211L", "CHEMÂ 3813 CHEMÂ 4123", "CHEMÂ 3813 CHEMÂ 4723", "MATHÂ 2554", "PHYSÂ 2013 PHYSÂ 2011L PHYSÂ 2033 PHYSÂ 2031L" ],
+    "Name" : "Requirements for B.A. in Chemistry with Biochemistry Concentration"
+  }, {
+    "Requirements" : [ "CHEMÂ 2263 CHEMÂ 2261L", "CHEMÂ 3603 CHEMÂ 3601L", "CHEMÂ 3613 CHEMÂ 3611L", "CHEMÂ 3453" ],
+    "Name" : "Minor in Chemistry"
+  }, {
+    "Requirements" : [ "ENGLÂ 1013", "ENGLÂ 1023", "MATHÂ 1203", "BIOLÂ 1543 BIOLÂ 1541L", "GEOSÂ 1113 GEOSÂ 1111L", "HISTÂ 2003", "GEOSÂ 1123", "HISTÂ 2013", "HISTÂ 1113", "ARHSÂ 1003", "COMMÂ 1233", "CIEDÂ 1013", "CIEDÂ 2943", "COMMÂ 1313", "HISTÂ 3383", "MATHÂ 2213", "MATHÂ 2223", "ENSCÂ 1003 ENSCÂ 1001L", "PLSCÂ 2003", "STATÂ 2303", "ENGLÂ 2003", "PHYSÂ 1034", "ECONÂ 3053", "CIEDÂ 3013", "CIEDÂ 3023", "CIEDÂ 3053", "CIEDÂ 3113", "CIEDÂ 3123", "CIEDÂ 3133", "CIEDÂ 3143", "CIEDÂ 3453", "CIEDÂ 4153", "CIEDÂ 4183", "CIEDÂ 4533", "STEMÂ 4033", "CIEDÂ 4403", "CIEDÂ 4413" ],
+    "Name" : "Requirements for B.S.E. in Childhood Education with EASL Concentration"
+  }, {
+    "Requirements" : [ "ENGLÂ 1013", "ENGLÂ 1023", "MATHÂ 1203", "BIOLÂ 1543 BIOLÂ 1541L", "GEOSÂ 1113 GEOSÂ 1111L", "HISTÂ 2003", "GEOSÂ 1123", "HISTÂ 2013", "HISTÂ 1113", "ARHSÂ 1003", "COMMÂ 1233", "CIEDÂ 1013", "CIEDÂ 2943", "COMMÂ 1313", "HISTÂ 3383", "MATHÂ 2213", "MATHÂ 2223", "ENSCÂ 1003 ENSCÂ 1001L", "PLSCÂ 2003", "STATÂ 2303", "ENGLÂ 2003", "PHYSÂ 1034", "ECONÂ 3053", "CIEDÂ 3013", "CIEDÂ 3023", "CIEDÂ 3053", "CIEDÂ 3113", "CIEDÂ 3123", "CIEDÂ 3133", "CIEDÂ 3143", "CIEDÂ 3453", "CIEDÂ 4153", "CIEDÂ 4183", "CIEDÂ 4533", "CIEDÂ 4423", "STEMÂ 4033" ],
+    "Name" : "Requirements for B.S.E. in Childhood Education with Gifted and Talented Concentration"
+  }, {
+    "Requirements" : [ "ENGLÂ 1013", "ENGLÂ 1023", "MATHÂ 1203", "BIOLÂ 1543 BIOLÂ 1541L", "GEOSÂ 1113 GEOSÂ 1111L", "HISTÂ 2003", "GEOSÂ 1123", "HISTÂ 2013", "HISTÂ 1113", "ARHSÂ 1003", "COMMÂ 1233", "CIEDÂ 1013", "CIEDÂ 2943", "COMMÂ 1313", "HISTÂ 3383", "MATHÂ 2213", "MATHÂ 2223", "ENSCÂ 1003 ENSCÂ 1001L", "PLSCÂ 2003", "STATÂ 2303", "ENGLÂ 2003", "PHYSÂ 1034", "ECONÂ 3053", "CIEDÂ 3013", "CIEDÂ 3023", "CIEDÂ 3053", "CIEDÂ 3113", "CIEDÂ 3123", "CIEDÂ 3133", "CIEDÂ 3143", "CIEDÂ 3453", "CIEDÂ 4153", "CIEDÂ 4183", "CIEDÂ 4533", "STEMÂ 4033", "SPEDÂ 4173", "CIEDÂ 4423", "SPEDÂ 4483" ],
+    "Name" : "Requirements for B.S.E. in Childhood Education with Reading Concentration"
+  }, {
+    "Requirements" : [ "ENGLÂ 1013", "ENGLÂ 1023", "MATHÂ 1203", "BIOLÂ 1543 BIOLÂ 1541L", "GEOSÂ 1113 GEOSÂ 1111L", "HISTÂ 2003", "GEOSÂ 1123", "HISTÂ 2013", "HISTÂ 1113", "ARHSÂ 1003", "COMMÂ 1233", "CIEDÂ 1013", "CIEDÂ 2943", "COMMÂ 1313", "ENSCÂ 1003 ENSCÂ 1001L", "HISTÂ 3383", "MATHÂ 2213", "MATHÂ 2223", "PLSCÂ 2003", "STATÂ 2303", "ENGLÂ 2003", "PHYSÂ 1034", "ECONÂ 3053", "CIEDÂ 3013", "CIEDÂ 3023", "CIEDÂ 3053", "CIEDÂ 3113", "CIEDÂ 3123", "CIEDÂ 3133", "CIEDÂ 3143", "CIEDÂ 3453", "CIEDÂ 4153", "CIEDÂ 4183", "CIEDÂ 4533", "CIEDÂ 4423", "STEMÂ 4033", "STEMÂ 4043" ],
+    "Name" : "Requirements for B.S.E. in Childhood Education with STEM Concentration"
+  }, {
+    "Requirements" : [ "CSCEÂ 2004", "ELEGÂ 3903", "GNEGÂ 3113", "GNEGÂ 3811", "MEEGÂ 2013", "MEEGÂ 2403", "MEEGÂ 2703", "GEOSÂ 3023", "GEOSÂ 3543", "GEOSÂ 4533", "MATHÂ 3083", "MATHÂ 4363" ],
+    "Name" : "Requirements for B.S. in Civil Engineering"
+  }, {
+    "Requirements" : [ "CLSTÂ 1003", "CLSTÂ 1013", "PHILÂ 2003", "WLITÂ 1113", "HISTÂ 1113 HISTÂ 1123", "ARCHÂ 2233", "ARHSÂ 4833", "ARHSÂ 4843", "CLSTÂ 2323", "HISTÂ 4003", "HISTÂ 4013", "HISTÂ 4023", "HISTÂ 4043", "HISTÂ 4053", "PHILÂ 4003", "PHILÂ 4013", "PHILÂ 4023", "CLSTÂ 4003H" ],
+    "Name" : "Requirements for B.A. in Classical Studies"
+  }, {
+    "Requirements" : [ "ARCHÂ 2233", "ARHSÂ 4833", "ARHSÂ 4843", "CLSTÂ 1003", "CLSTÂ 1013", "CLSTÂ 2323", "HISTÂ 4003", "HISTÂ 4013", "HISTÂ 4023", "HISTÂ 4043", "HISTÂ 4053", "PHILÂ 4003", "PHILÂ 4013", "PHILÂ 4023" ],
+    "Name" : "Minor in Classical Studies"
+  }, {
+    "Requirements" : [ "MATHÂ 2053C", "MATHÂ 2183", "STATÂ 2303", "COMMÂ 1313", "COMMÂ 2333", "COMMÂ 1003", "COMMÂ 2323", "COMMÂ 2343", "COMMÂ 2353", "COMMÂ 2813" ],
+    "Name" : "Requirements for B.A. in Communication"
+  }, {
+    "Requirements" : [ "BIOLÂ 1543 BIOLÂ 1541L", "PSYCÂ 2003", "ANTHÂ 1023", "PHYSÂ 1023 PHYSÂ 1021L", "PHYSÂ 2013 PHYSÂ 2011L", "CHEMÂ 1073 CHEMÂ 1071L", "ENGLÂ 2003", "ENGLÂ 2013", "ENGLÂ 3053", "CDISÂ 498VH", "COMMÂ 1313", "STATÂ 2303", "CDISÂ 2253", "CDISÂ 3103", "CDISÂ 3124", "CDISÂ 3213", "CDISÂ 3203", "CDISÂ 3223", "CDISÂ 3233", "CDISÂ 3253", "CDISÂ 4133", "CDISÂ 4253", "CDISÂ 4273", "CDISÂ 4213", "CDISÂ 4183", "CDISÂ 4223" ],
+    "Name" : "Requirements for B.S. in Communication Sciences and Disorders"
+  }, {
+    "Requirements" : [ "PHILÂ 3103" ],
+    "Name" : "Requirements for B.S.Cmp.E. in Computer Engineering"
+  }, {
+    "Requirements" : [ "PHILÂ 3103" ],
+    "Name" : "Requirements for B.S.C.S. in Computer Science"
+  }, {
+    "Requirements" : [ "PHILÂ 3103" ],
+    "Name" : "Requirements for B.A. in Computer Science"
+  }, {
+    "Requirements" : [ "CSCEÂ 2004", "CSCEÂ 2014", "CSCEÂ 3193" ],
+    "Name" : "Minor in Computer Science"
+  }, {
+    "Requirements" : [ "PHILÂ 3103" ],
+    "Name" : "Requirements for B.S.Cmp.E. in Computer Engineering"
+  }, {
+    "Requirements" : [ "PHILÂ 3103" ],
+    "Name" : "Requirements for B.S.C.S. in Computer Science"
+  }, {
+    "Requirements" : [ "PHILÂ 3103" ],
+    "Name" : "Requirements for B.A. in Computer Science"
+  }, {
+    "Requirements" : [ "CSCEÂ 2004", "CSCEÂ 2014", "CSCEÂ 3193" ],
+    "Name" : "Minor in Computer Science"
+  }, {
+    "Requirements" : [ "MATHÂ 2033", "MATHÂ 2043", "MATHÂ 2053", "MATHÂ 2183", "MATHÂ 2554", "ENGLÂ 2003", "CRIMÂ 2003", "SOCIÂ 2013", "CRIMÂ 2043", "CRIMÂ 3023", "SOCIÂ 3193", "SOCIÂ 3301L", "SOCIÂ 3303", "SOCIÂ 3313" ],
+    "Name" : "Requirements for B.A. in Criminology"
+  }, {
+    "Requirements" : [ "ENGLÂ 1013", "ENGLÂ 1023", "ENGLÂ 2003", "COMMÂ 1313", "CSESÂ 3023", "MATHÂ 1203", "AGMEÂ 2903", "AGSTÂ 4023", "STATÂ 2303", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 1613 BIOLÂ 1611L", "CHEMÂ 2613 CHEMÂ 2611L", "CHEMÂ 1073 CHEMÂ 1071L", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "BIOLÂ 4303", "ANSCÂ 3123", "POSCÂ 3123", "BIOLÂ 2323", "AGECÂ 1103", "CSESÂ 2103 CSESÂ 2101L", "CSESÂ 2203 CSESÂ 2201L", "CSESÂ 4013", "CSESÂ 4224", "CSESÂ 462V", "CSESÂ 400V", "CSESÂ 3112", "CSESÂ 3312", "CSESÂ 3322", "CSESÂ 3332", "CSESÂ 3342", "CSESÂ 3214", "CSESÂ 355V", "CSESÂ 400V", "CSESÂ 4103", "CSESÂ 4303", "CSESÂ 4253", "ENSCÂ 3103", "ENSCÂ 3263", "HORTÂ 2303", "PLPAÂ 4333", "ENTOÂ 3013", "PLPAÂ 3004", "CSESÂ 4133", "CSESÂ 4133", "PLPAÂ 4223", "ENTOÂ 4123", "AGECÂ 2303", "AGECÂ 3403", "PLPAÂ 4333", "BIOLÂ 4303", "CHEMÂ 3813", "CSESÂ 4103", "CSESÂ 3214", "ENSCÂ 3263", "CSESÂ 355V", "CSESÂ 4253", "ENSCÂ 4263", "ENSCÂ 4401", "CSESÂ 4553", "ENSCÂ 1003 ENSCÂ 1001L", "ENSCÂ 3003", "AGECÂ 3413", "ENSCÂ 3413", "AGECÂ 3503", "AGECÂ 3523", "BIOLÂ 3861L", "BIOLÂ 3863", "CSESÂ 4133", "CSESÂ 4553", "CSESÂ 462V", "ENSCÂ 3003", "ENSCÂ 3103", "ENSCÂ 3223", "ENSCÂ 3603", "ENSCÂ 4021L", "ENSCÂ 4023", "ENSCÂ 4034", "ENSCÂ 4263", "ENSCÂ 4401", "GEOSÂ 3043", "GEOSÂ 3543", "UNIVÂ 1001" ],
+    "Name" : "Requirements for B.S.A. in Crop Science"
+  }, {
+    "Requirements" : [ "CSESÂ 2103", "CSESÂ 2203", "CSESÂ 3112", "CSESÂ 3312", "CSESÂ 3322", "CSESÂ 3332", "CSESÂ 3342", "CSESÂ 3214", "CSESÂ 4013", "CSESÂ 4103", "CSESÂ 4133", "CSESÂ 4143", "CSESÂ 4224" ],
+    "Name" : "Minor in Crop Science"
+  }, {
+    "Requirements" : [ "PLPAÂ 4333", "CSESÂ 400V", "BIOLÂ 2323", "ANSC/POSC 3123", "BIOLÂ 4303", "CHEMÂ 3813", "CSESÂ 4103" ],
+    "Name" : "Minor in Crop Biotechnology"
+  }, {
+    "Requirements" : [ "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 1133 GEOSÂ 1131L", "MATHÂ 2043", "MATHÂ 2053", "MATHÂ 2183", "MATHÂ 2554", "ASTRÂ 2003 ASTRÂ 2001L", "GEOSÂ 3023", "GEOSÂ 3043", "GEOSÂ 4353", "GEOSÂ 2313", "GEOSÂ 3413", "GEOSÂ 4033", "GEOSÂ 4924" ],
+    "Name" : "Requirements for B.S. in Earth Science"
+  }, {
+    "Requirements" : [ "ECONÂ 2013", "ECONÂ 2023", "ECONÂ 3033", "ECONÂ 3133", "ECONÂ 4743", "COMMÂ 1313", "MATHÂ 2043 MATHÂ 2053", "MATHÂ 2554", "WCOBÂ 1033" ],
+    "Name" : "Requirements for B.A. in Economics"
+  }, {
+    "Requirements" : [ "ECONÂ 2013", "ECONÂ 2023", "ECONÂ 3033", "ECONÂ 3133", "ECONÂ 4633", "ECONÂ 4643", "ECONÂ 3843", "ECONÂ 3853", "ECONÂ 3933", "ECONÂ 410V", "ECONÂ 468V", "MATHÂ 2043 MATHÂ 2053", "MATHÂ 2554 MATHÂ 2564", "COMMÂ 1313", "WCOBÂ 1033", "ACCTÂ 2013", "ACCTÂ 2023", "MGMTÂ 2053", "ECONÂ 4743", "ECONÂ 4753" ],
+    "Name" : "Requirements for B.A. in Economics with International Economics and Business Concentration"
+  }, {
+    "Requirements" : [ "ECONÂ 3033", "ECONÂ 3133", "ECONÂ 4333", "ECONÂ 4743" ],
+    "Name" : "Requirements for B.S.B.A. in Economics with Business Economics Concentration"
+  }, {
+    "Requirements" : [ "ECONÂ 3033", "ECONÂ 3133", "ECONÂ 4633", "ECONÂ 4643", "FINNÂ 3703", "ECONÂ 3843", "ECONÂ 3853", "ECONÂ 3933" ],
+    "Name" : "Requirements for B.S.B.A. in Economics with International Economics and Business Concentration"
+  }, {
+    "Requirements" : [ "ECONÂ 2013", "ECONÂ 2023" ],
+    "Name" : "Minor in Economics for Business Students"
+  }, {
+    "Requirements" : [ "ECONÂ 2013", "ECONÂ 2023", "ECONÂ 4423", "ECONÂ 4433", "ECONÂ 3033" ],
+    "Name" : "Minor in Behavioral Economics for Business Students"
+  }, {
+    "Requirements" : [ "PSYCÂ 2003", "CIEDÂ 1013", "CIEDÂ 3023", "CIEDÂ 3033", "EDSTÂ 3113", "EDSTÂ 3203", "EDSTÂ 3223", "EDSTÂ 3333", "EDSTÂ 399V", "EDSTÂ 4003", "EDSTÂ 4113", "EDSTÂ 4213", "CNEDÂ 3053", "ENGLÂ 2173", "CDISÂ 2253", "HRWDÂ 3123", "EDSTÂ 3913", "EDSTÂ 3923", "EDSTÂ 4933" ],
+    "Name" : "Requirements for B.S.E. in Educational Studies"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for B.S. in Electrical Engineering"
+  }, {
+    "Requirements" : [ "ENGLÂ 1013", "ENGLÂ 1023", "MATHÂ 1203", "BIOLÂ 1543 BIOLÂ 1541L", "GEOSÂ 1113 GEOSÂ 1111L", "HISTÂ 2003", "GEOSÂ 1123", "HISTÂ 2013", "HISTÂ 1113", "ARHSÂ 1003", "COMMÂ 1233", "CIEDÂ 1013", "CIEDÂ 2943", "COMMÂ 1313", "MATHÂ 2213", "ECONÂ 3053", "HISTÂ 3383", "MATHÂ 2223", "PHYSÂ 1034", "PLSCÂ 2003", "CIEDÂ 3013", "CIEDÂ 3023", "CIEDÂ 3053", "CIEDÂ 3113", "CIEDÂ 3123", "CIEDÂ 3133", "CIEDÂ 3143", "CIEDÂ 3453", "CIEDÂ 4003", "CIEDÂ 4123", "CIEDÂ 4133", "CIEDÂ 4143", "CIEDÂ 4153", "CIEDÂ 4173", "CIEDÂ 4173", "CIEDÂ 4183", "CIEDÂ 4463", "CIEDÂ 4533", "STEMÂ 4033" ],
+    "Name" : "Requirements for B.S.E. in Elementary Education"
+  }, {
+    "Requirements" : [ "MATHÂ 1213", "MATHÂ 1284C", "MATHÂ 1313", "MATHÂ 2033", "MATHÂ 2043", "MATHÂ 2053", "STATÂ 2303", "PHILÂ 2003", "PHILÂ 2103", "ENGLÂ 3543", "ENGLÂ 3553", "ENGLÂ 3573", "ENGLÂ 3583", "ENGLÂ 3593", "ENGLÂ 3853", "ENGLÂ 4523", "ENGLÂ 4553", "ENGLÂ 4573", "ENGLÂ 4583", "ENGLÂ 4593", "ENGLÂ 4853", "WLITÂ 1113", "ENGLÂ 2303", "ENGLÂ 2313", "ENGLÂ 2343", "ENGLÂ 2313", "ENGLÂ 2323", "ENGLÂ 2343", "ENGLÂ 2353", "ENGLÂ 4303", "ENGLÂ 3713", "ENGLÂ 3723", "ENGLÂ 3743", "ENGLÂ 3833", "ENGLÂ 3843", "ENGLÂ 3853", "ENGLÂ 3863" ],
+    "Name" : "Requirements for B.A. in English"
+  }, {
+    "Requirements" : [ "PHILÂ 2003", "WLITÂ 1113", "WLITÂ 1123", "ENGLÂ 3203", "ENGLÂ 3213", "ENGLÂ 2023", "ENGLÂ 3013", "ENGLÂ 4013", "ENGLÂ 2303", "ENGLÂ 2313", "ENGLÂ 2323", "ENGLÂ 2343", "ENGLÂ 2353", "ENGLÂ 4303" ],
+    "Name" : "Requirements for B.A. in English with Creative Writing Concentration"
+  }, {
+    "Requirements" : [ "MATHÂ 2033", "MATHÂ 2043", "MATHÂ 2053", "MATHÂ 2183", "STATÂ 2303", "WLITÂ 1113", "WLITÂ 1123", "PHILÂ 2003", "PHILÂ 2103", "PLSCÂ 2003", "PLSCÂ 2813", "PLSCÂ 3233", "PLSCÂ 4233", "ECONÂ 2143", "COMMÂ 1313", "ANTHÂ 4533", "COMMÂ 4343", "HISTÂ 3233", "HISTÂ 3243", "HISTÂ 3263", "SCWKÂ 3193", "JOURÂ 3263", "JOURÂ 4923", "SCWKÂ 3193", "SOCIÂ 3193" ],
+    "Name" : "Combined English and Journalism Major"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for B.A.T. in English Education"
+  }, {
+    "Requirements" : [ "UNIVÂ 1001", "COMMÂ 1313", "CSESÂ 3023", "MATHÂ 1203", "MATHÂ 1213", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 2013 BIOLÂ 2011L", "BIOLÂ 3863 BIOLÂ 3861L", "CSESÂ 1203", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "CHEMÂ 2613 CHEMÂ 2611L", "GEOSÂ 1113 GEOSÂ 1111L", "PHYSÂ 2013 PHYSÂ 2011L", "CSESÂ 2203", "CSESÂ 2201L", "ENSCÂ 1003", "ENSCÂ 1001L", "AGMEÂ 2903", "ENSCÂ 3003", "STATÂ 2303", "CSESÂ 3214", "CSESÂ 4224", "CSESÂ 4253", "CSESÂ 4553", "ENSCÂ 3263", "ENSCÂ 4263", "ENSCÂ 4023", "GEOSÂ 3333", "GEOSÂ 4033", "GEOSÂ 4363", "GEOSÂ 4473", "AGMEÂ 3153", "CSESÂ 2013", "CSESÂ 355V", "CSESÂ 462V", "CSESÂ 4553", "ENSCÂ 3103", "ENSCÂ 3263", "ENSCÂ 3603", "ENSCÂ 4021L", "ENSCÂ 4034", "ENSCÂ 4401", "GEOSÂ 3043", "GEOSÂ 3543", "AGECÂ 3413", "AGECÂ 3503", "AGECÂ 3523", "ENSCÂ 3933", "SOCIÂ 4603" ],
+    "Name" : "Requirements for B.S.A. in Environmental, Soil and Water Science"
+  }, {
+    "Requirements" : [ "ENSCÂ 1003", "ENSCÂ 1001L", "CSESÂ 2203", "AGECÂ 3413", "AGECÂ 3503", "AGECÂ 3523", "BIOLÂ 3863 BIOLÂ 3861L", "CSESÂ 1203", "CSESÂ 2013", "CSESÂ 2201L", "CSESÂ 3214", "CSESÂ 355V", "CSESÂ 4013", "CSESÂ 4133", "CSESÂ 4224", "CSESÂ 4253", "CSESÂ 4553", "CSESÂ 462V", "ENSCÂ 3103", "ENSCÂ 3223 ENSCÂ 3221L", "ENSCÂ 3263", "ENSCÂ 3603", "ENSCÂ 4021L", "ENSCÂ 4023", "ENSCÂ 4034", "ENSCÂ 4263", "ENSCÂ 4401", "GEOSÂ 3043", "GEOSÂ 3543" ],
+    "Name" : "Minor in Natural Resources Management"
+  }, {
+    "Requirements" : [ "CSESÂ 2203 CSESÂ 2201L", "CSESÂ 3214", "CSESÂ 355V", "CSESÂ 4224", "CSESÂ 4253", "CSESÂ 4553", "ENSCÂ 3263", "ENSCÂ 4263", "ENSCÂ 4401", "CSESÂ 5033", "CSESÂ 5224", "CSESÂ 5264", "CSESÂ 5453" ],
+    "Name" : "Minor in Soil Science"
+  }, {
+    "Requirements" : [ "MATHÂ 1213", "BIOLÂ 1543 BIOLÂ 1541L", "CHEMÂ 1103 CHEMÂ 1101L", "PSYCÂ 2003", "BIOLÂ 2443 BIOLÂ 2441L", "BIOLÂ 2213 BIOLÂ 2211L", "CHEMÂ 1123 CHEMÂ 1121L", "CHEMÂ 2613 CHEMÂ 2611L", "PHYSÂ 2013 PHYSÂ 2011L", "NUTRÂ 1213", "COMMÂ 1313", "STATÂ 2303", "PBHLÂ 2663", "PSYCÂ 3023", "EXSCÂ 2733", "EXSCÂ 3153", "EXSCÂ 3353", "EXSCÂ 3533", "EXSCÂ 4323", "EXSCÂ 4773", "EXSCÂ 4833", "EXSCÂ 4903", "EXSCÂ 3013", "EXSCÂ 3393", "EXSCÂ 3423", "EXSCÂ 3723", "EXSCÂ 4013", "EXSCÂ 4353", "EXSCÂ 4643", "EXSCÂ 4783", "KINSÂ 3901H", "PBHLÂ 4603", "PBHLÂ 4613", "PHEDÂ 3223", "MATHÂ 2053", "ENGLÂ 3053", "BIOLÂ 2013 BIOLÂ 2011L", "BIOLÂ 2323", "BIOLÂ 2321L", "BIOLÂ 2533", "BIOLÂ 2531L", "BIOLÂ 4793", "CHEMÂ 3613 CHEMÂ 3611L", "CHEMÂ 3813", "PSYCÂ 3093", "PHYSÂ 2033 PHYSÂ 2031L" ],
+    "Name" : "Requirements for B.S. in Exercise Science"
+  }, {
+    "Requirements" : [ "FINNÂ 3013", "FINNÂ 3053", "FINNÂ 3703" ],
+    "Name" : "Requirements for B.S.B.A. in Finance with Banking Concentration"
+  }, {
+    "Requirements" : [ "FINNÂ 3013", "FINNÂ 3053", "FINNÂ 3703" ],
+    "Name" : "Requirements for B.S.B.A. in Finance with Energy Finance Concentration"
+  }, {
+    "Requirements" : [ "FINNÂ 3013", "FINNÂ 3053", "FINNÂ 3703" ],
+    "Name" : "Requirements for B.S.B.A. in Finance with Financial Management/Investment Concentration"
+  }, {
+    "Requirements" : [ "FINNÂ 3013", "FINNÂ 3053", "FINNÂ 3703" ],
+    "Name" : "Requirements for B.S.B.A. in Finance with Real Estate Concentration"
+  }, {
+    "Requirements" : [ "FINNÂ 3013", "FINNÂ 3053", "FINNÂ 3703" ],
+    "Name" : "Requirements for B.S.B.A. in Finance with Risk Management Concentration"
+  }, {
+    "Requirements" : [ "FINNÂ 3013", "FINNÂ 3053", "FINNÂ 3103", "FINNÂ 3703", "FINNÂ 3063", "FINNÂ 3133", "FINNÂ 3603", "FINNÂ 4133", "FINNÂ 4233", "FINNÂ 4313" ],
+    "Name" : "Minors in Finance for Business Students"
+  }, {
+    "Requirements" : [ "UNIVÂ 1001", "ENGLÂ 1013", "ENGLÂ 1023", "COMMÂ 1313", "AGEDÂ 3143", "MATHÂ 1203", "STATÂ 2303", "CHEMÂ 1073 CHEMÂ 1071L", "CHEMÂ 1103 CHEMÂ 1101L CHEMÂ 1123 CHEMÂ 1121L", "PSYCÂ 2003", "HDFSÂ 2413", "NUTRÂ 1213", "NUTRÂ 2113 NUTRÂ 2111L", "HOSPÂ 2611", "NUTRÂ 3103 NUTRÂ 3101L", "NUTRÂ 3213", "NUTRÂ 4001", "NUTRÂ 4103 NUTRÂ 4101L", "NUTRÂ 4223", "NUTRÂ 4243", "NUTRÂ 4303", "NUTRÂ 4403", "HOSPÂ 2603", "NUTRÂ 3603", "HOSPÂ 3653", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 2323 BIOLÂ 2321L", "BIOLÂ 2533 BIOLÂ 2531L", "CHEMÂ 2613 CHEMÂ 2611L", "CHEMÂ 3813", "NUTRÂ 4213", "BIOLÂ 4703", "NUTRÂ 2203", "PBHLÂ 1103", "PBHLÂ 2663", "PBHLÂ 3202", "PBHLÂ 3643", "EXSCÂ 3153" ],
+    "Name" : "Requirements for B.S.H.E.S. in Food, Nutrition and Health"
+  }, {
+    "Requirements" : [ "NUTRÂ 1213", "NUTRÂ 3203", "NUTRÂ 2113 NUTRÂ 2111L", "NUTRÂ 4213", "NUTRÂ 2203", "NUTRÂ 4223", "NUTRÂ 4243" ],
+    "Name" : "Minor in Human Nutrition"
+  }, {
+    "Requirements" : [ "ENGLÂ 1013", "ENGLÂ 1023", "MATHÂ 1203", "MATHÂ 1213", "MATHÂ 2554", "STATÂ 2303", "STATÂ 2023", "AGSTÂ 4023", "MATHÂ 2043", "MATHÂ 2053", "AGECÂ 2403", "WCOBÂ 1033", "STATÂ 2303", "AGSTÂ 4023", "MATHÂ 2043", "STATÂ 2303", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 2013 BIOLÂ 2011L", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "CHEMÂ 2613 CHEMÂ 2611L", "CHEMÂ 3813", "PHYSÂ 2013 PHYSÂ 2011L", "CHEMÂ 2613 CHEMÂ 2611L", "CHEMÂ 3813", "CHEMÂ 2613 CHEMÂ 2611L", "UNIVÂ 1001", "FDSCÂ 1011", "FDSCÂ 1103", "FDSCÂ 3103", "FDSCÂ 3202", "FDSCÂ 4304", "FDSCÂ 4113 FDSCÂ 4111L", "FDSCÂ 431V", "FDSCÂ 4413", "FDSCÂ 4713" ],
+    "Name" : "Requirements for B.S.A. in Food Science with Food Science Concentration"
+  }, {
+    "Requirements" : [ "ENGLÂ 1013", "ENGLÂ 1023", "MATHÂ 1203", "MATHÂ 1213", "MATHÂ 2554", "STATÂ 2303", "STATÂ 2023", "AGSTÂ 4023", "MATHÂ 2043", "MATHÂ 2053", "AGECÂ 2403", "WCOBÂ 1033", "STATÂ 2303", "AGSTÂ 4023", "MATHÂ 2043", "STATÂ 2303", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 2013 BIOLÂ 2011L", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "CHEMÂ 2613 CHEMÂ 2611L", "CHEMÂ 3813", "PHYSÂ 2013 PHYSÂ 2011L", "CHEMÂ 2613 CHEMÂ 2611L", "CHEMÂ 3813", "CHEMÂ 2613 CHEMÂ 2611L", "UNIVÂ 1001", "FDSCÂ 1011", "FDSCÂ 1103", "FDSCÂ 3103", "FDSCÂ 3202", "FDSCÂ 4304", "FDSCÂ 4113 FDSCÂ 4111L", "FDSCÂ 431V", "FDSCÂ 4413", "FDSCÂ 4713" ],
+    "Name" : "Requirements for B.S.A. in Food Science with Food Technology Concentration"
+  }, {
+    "Requirements" : [ "ENGLÂ 1013", "ENGLÂ 1023", "MATHÂ 1203", "MATHÂ 1213", "MATHÂ 2554", "STATÂ 2303", "STATÂ 2023", "AGSTÂ 4023", "MATHÂ 2043", "MATHÂ 2053", "AGECÂ 2403", "WCOBÂ 1033", "STATÂ 2303", "AGSTÂ 4023", "MATHÂ 2043", "STATÂ 2303", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 2013 BIOLÂ 2011L", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "CHEMÂ 2613 CHEMÂ 2611L", "CHEMÂ 3813", "PHYSÂ 2013 PHYSÂ 2011L", "CHEMÂ 2613 CHEMÂ 2611L", "CHEMÂ 3813", "CHEMÂ 2613 CHEMÂ 2611L", "UNIVÂ 1001", "FDSCÂ 1011", "FDSCÂ 1103", "FDSCÂ 3103", "FDSCÂ 3202", "FDSCÂ 4304", "FDSCÂ 4113 FDSCÂ 4111L", "FDSCÂ 431V", "FDSCÂ 4413", "FDSCÂ 4713" ],
+    "Name" : "Requirements for B.S.A. in Food Science with Food and Culinary Sciences Concentration"
+  }, {
+    "Requirements" : [ "FDSCÂ 3103", "FDSCÂ 4122 FDSCÂ 4121L", "FDSCÂ 4304", "FDSCÂ 1103", "FDSCÂ 2401", "FDSCÂ 2401H", "FDSCÂ 2603", "FDSCÂ 2701", "FDSCÂ 3202", "FDSCÂ 4113 FDSCÂ 4111L", "FDSCÂ 4413", "FDSCÂ 4754", "NUTRÂ 4213" ],
+    "Name" : "Minor in Food Science"
+  }, {
+    "Requirements" : [ "FDSCÂ 2723", "BIOLÂ 2723L", "BIOLÂ 2013", "BIOLÂ 2533", "CHEMÂ 2613", "FDSCÂ 3103", "FDSCÂ 2603", "FDSCÂ 2523", "FDSCÂ 4122", "CHEGÂ 2133", "CHEGÂ 3144", "BENGÂ 3113", "BENGÂ 3733" ],
+    "Name" : "Brewing Science Certificate of Proficiency"
+  }, {
+    "Requirements" : [ "PHILÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "ARABÂ 3016", "ARABÂ 4016", "ARABÂ 4023" ],
+    "Name" : "Requirements for B.A. in Arabic"
+  }, {
+    "Requirements" : [ "FRENÂ 3003", "FRENÂ 3113", "FRENÂ 4003", "FRENÂ 4033", "FRENÂ 4213" ],
+    "Name" : "Requirements for B.A. in French"
+  }, {
+    "Requirements" : [ "FRENÂ 3003", "FRENÂ 3113", "FRENÂ 4003", "FRENÂ 4033", "FRENÂ 4213" ],
+    "Name" : "Requirements for Additional Major in French for Non-Arts and Sciences Students"
+  }, {
+    "Requirements" : [ "GERMÂ 3003", "GERMÂ 3013", "GERMÂ 4003", "GERMÂ 4213", "GERMÂ 3033" ],
+    "Name" : "Requirements for B.A. in German"
+  }, {
+    "Requirements" : [ "GERMÂ 3003", "GERMÂ 3013", "GERMÂ 3033", "GERMÂ 4003", "GERMÂ 4213" ],
+    "Name" : "Requirements for Additional Major in German for Non-Arts and Sciences Students"
+  }, {
+    "Requirements" : [ "SPANÂ 3003", "SPANÂ 3033", "SPANÂ 3103", "SPANÂ 3113", "SPANÂ 4003" ],
+    "Name" : "Requirements for B.A. in Spanish"
+  }, {
+    "Requirements" : [ "SPANÂ 3003", "SPANÂ 3103", "SPANÂ 3033", "SPANÂ 3113", "SPANÂ 4003", "SPANÂ 4623" ],
+    "Name" : "Requirements for Additional Major in Spanish for Non-Arts and Sciences Students"
+  }, {
+    "Requirements" : [ "ARABÂ 3016", "ARABÂ 4016", "ARABÂ 4023" ],
+    "Name" : "Minor in Arabic"
+  }, {
+    "Requirements" : [ "FRENÂ 3003", "FRENÂ 3113", "FRENÂ 4003", "FRENÂ 4033" ],
+    "Name" : "Minor in French"
+  }, {
+    "Requirements" : [ "GERMÂ 3003", "GERMÂ 4003", "GERMÂ 4213" ],
+    "Name" : "Minor in German"
+  }, {
+    "Requirements" : [ "ITALÂ 3033", "ITALÂ 3113", "ITALÂ 3123", "ITALÂ 4033", "ITALÂ 3103", "ITALÂ 3983" ],
+    "Name" : "Minor in Italian"
+  }, {
+    "Requirements" : [ "SPANÂ 3003", "SPANÂ 3103", "SPANÂ 3113", "SPANÂ 4003", "SPANÂ 3033" ],
+    "Name" : "Minor in Spanish"
+  }, {
+    "Requirements" : [ "SPANÂ 3003", "SPANÂ 3103", "SPANÂ 4003", "SPANÂ 4333", "SPANÂ 3033" ],
+    "Name" : "Minor in Spanish for the Professions"
+  }, {
+    "Requirements" : [ "CHINÂ 3003", "CHINÂ 3033", "CHINÂ 3103", "CHINÂ 4333", "CHINÂ 3983", "CHINÂ 4313" ],
+    "Name" : "Minors in World Languages with Business Orientation"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for B.A.T. in French Education"
+  }, {
+    "Requirements" : [ "GEOSÂ 1123", "GEOSÂ 2003", "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 1133 GEOSÂ 1131L", "GEOSÂ 3023", "GEOSÂ 3543" ],
+    "Name" : "Requirements for B.A. in Geography"
+  }, {
+    "Requirements" : [ "GEOSÂ 3023", "GEOSÂ 3213", "GEOS/ANTH 3543", "GEOSÂ 4523", "GEOSÂ 5423", "GEOS/ANTH 4553", "GEOS/ANTH 4583", "GEOS/ANTH 4593", "STATÂ 4003", "CVEGÂ 2053" ],
+    "Name" : "B.A. in Geography with Cartography/Remote Sensing GIS Concentration"
+  }, {
+    "Requirements" : [ "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "PHYSÂ 2013 PHYSÂ 2011L PHYSÂ 2033 PHYSÂ 2031L", "PHYSÂ 2054 PHYSÂ 2074", "MATHÂ 2554", "MATHÂ 2564", "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 1133 GEOSÂ 1131L", "GEOSÂ 2313", "GEOSÂ 3383", "GEOSÂ 3413", "GEOSÂ 3514", "GEOSÂ 4063", "GEOSÂ 4223", "GEOSÂ 4686", "GEOSÂ 4873", "GEOSÂ 4924" ],
+    "Name" : "Requirements for B.S. in Geology"
+  }, {
+    "Requirements" : [ "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "PHYSÂ 2054", "PHYSÂ 2074", "PHYSÂ 2094", "MATHÂ 2554", "MATHÂ 2564", "MATHÂ 2574", "MATHÂ 2584", "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 2313", "GEOSÂ 3383", "GEOSÂ 3413", "GEOSÂ 3514", "GEOSÂ 4223", "GEOSÂ 4433", "GEOSÂ 4924", "GEOSÂ 4686", "PHYSÂ 3113", "PHYSÂ 3453", "PHYSÂ 3613", "PHYSÂ 4073", "PHYSÂ 4991" ],
+    "Name" : "Requirements for B.S. in Geology with Geophysics Concentration"
+  }, {
+    "Requirements" : [ "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 1133 GEOSÂ 1131L", "GEOSÂ 2313" ],
+    "Name" : "Minor in Geology"
+  }, {
+    "Requirements" : [ "PHILÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "ARABÂ 3016", "ARABÂ 4016", "ARABÂ 4023" ],
+    "Name" : "Requirements for B.A. in Arabic"
+  }, {
+    "Requirements" : [ "FRENÂ 3003", "FRENÂ 3113", "FRENÂ 4003", "FRENÂ 4033", "FRENÂ 4213" ],
+    "Name" : "Requirements for B.A. in French"
+  }, {
+    "Requirements" : [ "FRENÂ 3003", "FRENÂ 3113", "FRENÂ 4003", "FRENÂ 4033", "FRENÂ 4213" ],
+    "Name" : "Requirements for Additional Major in French for Non-Arts and Sciences Students"
+  }, {
+    "Requirements" : [ "GERMÂ 3003", "GERMÂ 3013", "GERMÂ 4003", "GERMÂ 4213", "GERMÂ 3033" ],
+    "Name" : "Requirements for B.A. in German"
+  }, {
+    "Requirements" : [ "GERMÂ 3003", "GERMÂ 3013", "GERMÂ 3033", "GERMÂ 4003", "GERMÂ 4213" ],
+    "Name" : "Requirements for Additional Major in German for Non-Arts and Sciences Students"
+  }, {
+    "Requirements" : [ "SPANÂ 3003", "SPANÂ 3033", "SPANÂ 3103", "SPANÂ 3113", "SPANÂ 4003" ],
+    "Name" : "Requirements for B.A. in Spanish"
+  }, {
+    "Requirements" : [ "SPANÂ 3003", "SPANÂ 3103", "SPANÂ 3033", "SPANÂ 3113", "SPANÂ 4003", "SPANÂ 4623" ],
+    "Name" : "Requirements for Additional Major in Spanish for Non-Arts and Sciences Students"
+  }, {
+    "Requirements" : [ "ARABÂ 3016", "ARABÂ 4016", "ARABÂ 4023" ],
+    "Name" : "Minor in Arabic"
+  }, {
+    "Requirements" : [ "FRENÂ 3003", "FRENÂ 3113", "FRENÂ 4003", "FRENÂ 4033" ],
+    "Name" : "Minor in French"
+  }, {
+    "Requirements" : [ "GERMÂ 3003", "GERMÂ 4003", "GERMÂ 4213" ],
+    "Name" : "Minor in German"
+  }, {
+    "Requirements" : [ "ITALÂ 3033", "ITALÂ 3113", "ITALÂ 3123", "ITALÂ 4033", "ITALÂ 3103", "ITALÂ 3983" ],
+    "Name" : "Minor in Italian"
+  }, {
+    "Requirements" : [ "SPANÂ 3003", "SPANÂ 3103", "SPANÂ 3113", "SPANÂ 4003", "SPANÂ 3033" ],
+    "Name" : "Minor in Spanish"
+  }, {
+    "Requirements" : [ "SPANÂ 3003", "SPANÂ 3103", "SPANÂ 4003", "SPANÂ 4333", "SPANÂ 3033" ],
+    "Name" : "Minor in Spanish for the Professions"
+  }, {
+    "Requirements" : [ "CHINÂ 3003", "CHINÂ 3033", "CHINÂ 3103", "CHINÂ 4333", "CHINÂ 3983", "CHINÂ 4313" ],
+    "Name" : "Minors in World Languages with Business Orientation"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for B.A.T. in German Education"
+  }, {
+    "Requirements" : [ "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4563", "ARHSÂ 4573", "ARHSÂ 4733", "ARHSÂ 4743", "ARHSÂ 4753", "ARHSÂ 4833", "ARHSÂ 4843", "ARHSÂ 4853", "ARHSÂ 4863", "ARHSÂ 4873", "ARHSÂ 4983", "ARHSÂ 4763", "ARHSÂ 4813", "ARHSÂ 4883", "ARHSÂ 4893", "ARHSÂ 4913", "ARHSÂ 4923", "ARHSÂ 4933", "ARHSÂ 4993" ],
+    "Name" : "Requirements for B.A. in Art History"
+  }, {
+    "Requirements" : [ "COMMÂ 1313", "PHILÂ 2003", "PHILÂ 4403", "ARTSÂ 1919C", "ARTSÂ 1929C", "AREDÂ 4773", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4933" ],
+    "Name" : "Requirements for B.F.A. in Art Education with Concentration in Community Practice"
+  }, {
+    "Requirements" : [ "COMMÂ 1313", "PHILÂ 2003", "PHILÂ 4403", "PSYCÂ 2003", "ARTSÂ 1919C", "ARTSÂ 1929C", "AREDÂ 4773", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4933" ],
+    "Name" : "Requirements for B.F.A. in Art Education with Concentration in K-12 Teaching"
+  }, {
+    "Requirements" : [ "ARTSÂ 1919C", "ARTSÂ 1929C", "GDESÂ 2313", "GDESÂ 3313", "GDESÂ 3323", "GDESÂ 3383", "GDESÂ 4343", "GDESÂ 4303", "GDESÂ 4313", "GDESÂ 4323", "GDESÂ 4353", "GDESÂ 4363", "GDESÂ 4373", "GDESÂ 4383", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4823", "ARHSÂ 4933", "PHILÂ 2003" ],
+    "Name" : "Requirements for B.F.A. in Graphic Design"
+  }, {
+    "Requirements" : [ "ARTSÂ 1919C", "ARTSÂ 1929C", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4563", "ARHSÂ 4573", "ARHSÂ 4733", "ARHSÂ 4743", "ARHSÂ 4753", "ARHSÂ 4833", "ARHSÂ 4843", "ARHSÂ 4853", "ARHSÂ 4863", "ARHSÂ 4873", "ARHSÂ 4983", "ARHSÂ 4763", "ARHSÂ 4813", "ARHSÂ 4823", "ARHSÂ 4883", "ARHSÂ 4893", "ARHSÂ 4913", "ARHSÂ 4923", "ARHSÂ 4933", "ARHSÂ 4993" ],
+    "Name" : "Requirements for B.A. in Studio Art"
+  }, {
+    "Requirements" : [ "ARTSÂ 1919C", "ARTSÂ 1929C", "ARTSÂ 4923", "PHILÂ 2003", "PHILÂ 4403", "ARHSÂ 2913", "ARHSÂ 2923", "ARHSÂ 4933" ],
+    "Name" : "Requirements for B.F.A. in Studio Art"
+  }, {
+    "Requirements" : [ "ARHSÂ 2913", "ARHSÂ 2923" ],
+    "Name" : "Minor in Art History"
+  }, {
+    "Requirements" : [ "HISTÂ 1003", "AASTÂ 1003", "AASTÂ 2023", "ANTHÂ 1023", "CLSTÂ 1003", "CLSTÂ 1013", "ECONÂ 2013", "ECONÂ 2023", "ECONÂ 3063", "ENGLÂ 2313", "ENGLÂ 2353", "GEOSÂ 1123", "GEOSÂ 2003", "GNSTÂ 2003", "INSTÂ 2013", "JWSTÂ 2003", "LALSÂ 2013", "MATHÂ 2053", "MATHÂ 2183", "MESTÂ 2013", "MRSTÂ 2013", "PHILÂ 1003", "PHILÂ 2003", "PHILÂ 2103", "PHILÂ 2203", "PLSCÂ 2003", "PLSCÂ 2813", "SOCIÂ 2013", "SOSTÂ 2003", "STATÂ 2303", "HISTÂ 1113", "HISTÂ 1123", "HISTÂ 2003", "HISTÂ 2013", "HISTÂ 4893" ],
+    "Name" : "Requirements for B.A. in History"
+  }, {
+    "Requirements" : [ "HISTÂ 1113", "HISTÂ 1123", "HISTÂ 2003", "HISTÂ 2013" ],
+    "Name" : "Minor in History"
+  }, {
+    "Requirements" : [ "ENGLÂ 1013", "ENGLÂ 1023", "HISTÂ 2003", "HISTÂ 2013", "PLSCÂ 2003", "MATHÂ 1203", "BIOLÂ 1543 BIOLÂ 1541L", "CHEMÂ 2613 CHEMÂ 2611L", "CHEMÂ 1073 CHEMÂ 1071L", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "AGECÂ 1103", "AGECÂ 2103", "ECONÂ 2013", "ECONÂ 2023", "ECONÂ 2143", "UNIVÂ 1001", "COMMÂ 1313", "CSESÂ 2203 CSESÂ 2201L", "HORTÂ 2003", "HORTÂ 2101", "HORTÂ 4403", "HORTÂ 4413", "HORTÂ 462V", "HORTÂ 472V", "CSESÂ 4143", "ENTOÂ 3013", "PLPAÂ 3004", "HORTÂ 1303", "HORTÂ 2303", "HORTÂ 3103", "HORTÂ 3113", "HORTÂ 3123", "HORTÂ 3203", "HORTÂ 3303", "HORTÂ 3403", "HORTÂ 3503", "HORTÂ 4033", "HORTÂ 4043", "HORTÂ 4103", "HORTÂ 4503", "HORTÂ 4603", "HORTÂ 4703", "HORTÂ 4701L", "HORTÂ 4803", "HORTÂ 4801L", "HORTÂ 4903", "HORTÂ 4913", "HORTÂ 4921", "HORTÂ 4932", "HORTÂ 400V", "HORTÂ 401V", "AGMEÂ 3102 AGMEÂ 3101L", "AGMEÂ 3153", "AGMEÂ 4973", "ANSC/POSC 3123", "HORTÂ 1103", "HORTÂ 400V", "HORTÂ 401V", "LARCÂ 3914", "LARCÂ 2113", "PHYSÂ 1023 PHYSÂ 1021L" ],
+    "Name" : "Requirements for B.S.A. in Horticulture, Landscape and Turf Sciences"
+  }, {
+    "Requirements" : [ "HORTÂ 2003", "HORTÂ 4403", "HORTÂ 2303", "HORTÂ 3303", "HORTÂ 400V", "HORTÂ 4103", "HORTÂ 4503", "HORTÂ 4703 HORTÂ 4701L", "HORTÂ 4803 HORTÂ 4801L", "HORTÂ 3103", "HORTÂ 3113" ],
+    "Name" : "Minor in Horticulture"
+  }, {
+    "Requirements" : [ "HORTÂ 2003", "HORTÂ 4043", "HORTÂ 4603", "HORTÂ 3103", "HORTÂ 3113", "HORTÂ 2303", "HORTÂ 3103", "HORTÂ 3113", "HORTÂ 3403", "HORTÂ 400V", "HORTÂ 4033", "HORTÂ 4403", "HORTÂ 4503", "HORTÂ 4703 HORTÂ 4701L", "HORTÂ 4803 HORTÂ 4801L", "LARCÂ 3734" ],
+    "Name" : "Minor in Landscape Horticulture"
+  }, {
+    "Requirements" : [ "HORTÂ 2303", "HORTÂ 3403", "HORTÂ 4903", "HORTÂ 4913", "CSESÂ 2003", "ENTOÂ 3013", "PLPAÂ 3004", "AGMEÂ 4973", "AGMEÂ 3102 AGMEÂ 3101L", "CSESÂ 2003", "CSESÂ 2203 CSESÂ 2201L", "ENTOÂ 3013", "PLPAÂ 3004", "HORTÂ 4903", "HORTÂ 4913", "HORTÂ 3103", "HORTÂ 4033", "HORTÂ 4043" ],
+    "Name" : "Minor in Turf Management"
+  }, {
+    "Requirements" : [ "UNIVÂ 1001", "ENGLÂ 1013", "ENGLÂ 1023", "COMMÂ 1313", "AGEDÂ 3143", "MATHÂ 1203", "MATHÂ 2053", "ECONÂ 2143", "HDFSÂ 2413", "PSYCÂ 2003", "NUTRÂ 1213", "HOSPÂ 1301", "HOSPÂ 1603", "HOSPÂ 2603", "HOSPÂ 2611", "HOSPÂ 2633", "", "HOSPÂ 3603", "HOSPÂ 3601L", "HOSPÂ 3623", "HOSPÂ 3653", "HOSPÂ 4643", "HOSPÂ 4653", "HOSPÂ 4693", "AGMEÂ 2903", "BLAWÂ 2013", "HOSPÂ 4673" ],
+    "Name" : "Requirements for B.S.H.E.S. in Hospitality Management"
+  }, {
+    "Requirements" : [ "HOSPÂ 1603", "HOSPÂ 2603", "HOSPÂ 3623", "HOSPÂ 3673", "HESCÂ 455V" ],
+    "Name" : "Minor in Event Management"
+  }, {
+    "Requirements" : [ "HOSPÂ 1603", "HOSPÂ 2633", "HOSPÂ 3623", "HOSPÂ 3653", "HOSPÂ 4653" ],
+    "Name" : "Minor in Hospitality Management"
+  }, {
+    "Requirements" : [ "UNIVÂ 1001", "ENGLÂ 1013", "ENGLÂ 1023", "COMMÂ 1313", "PHILÂ 2103", "PSYCÂ 2003", "SOCIÂ 2013", "HDFSÂ 2413", "NUTRÂ 1213", "HDFSÂ 1403", "HDFSÂ 2433", "HDFSÂ 2483", "HDFSÂ 2603", "HDFSÂ 3423", "HDFSÂ 3443", "HDFSÂ 3453", "HDFSÂ 4423", "HDFSÂ 4463", "HDFSÂ 4473", "HDFSÂ 4451", "HDFSÂ 4483", "HDFSÂ 4493", "HDFSÂ 4603", "HDFSÂ 4763", "HDFSÂ 4773", "SCWKÂ 3163", "SCWKÂ 3633", "HDFSÂ 2403 HDFSÂ 2401L", "HDFSÂ 2443", "HDFSÂ 2473 HDFSÂ 2471L", "HDFSÂ 4413", "HESCÂ 4233", "HDFSÂ 4332 4332L", "HDFSÂ 4342 4342L", "CIEDÂ 3023", "CIEDÂ 3103", "CIEDÂ 3113", "CNEDÂ 3053", "PBHLÂ 1303", "PBHLÂ 2663" ],
+    "Name" : "Requirements for B.S.H.E.S. in Human Development and Family Sciences"
+  }, {
+    "Requirements" : [ "HDFSÂ 1403", "HDFSÂ 2413", "HDFSÂ 2433", "HDFSÂ 2443", "HDFSÂ 2403 HDFSÂ 2401L", "HDFSÂ 2473 HDFSÂ 2471L", "HDFSÂ 2483", "HDFSÂ 2603", "HDFSÂ 3423", "HDFSÂ 3443", "HDFSÂ 3453", "HESCÂ 4233", "HDFSÂ 4313", "HDFSÂ 4413", "HDFSÂ 4423", "HDFSÂ 4473", "HDFSÂ 4493", "HDFSÂ 4603" ],
+    "Name" : "Minor in Human Development and Family Sciences"
+  }, {
+    "Requirements" : [ "UNIVÂ 1001", "ENGLÂ 1013", "ENGLÂ 1023", "COMMÂ 1313", "ENGLÂ 3053", "MATHÂ 1203", "STATÂ 2303", "CHEMÂ 1073 CHEMÂ 1071L", "CHEMÂ 1103 CHEMÂ 1101L CHEMÂ 1123 CHEMÂ 1121L", "BIOLÂ 2013 BIOLÂ 2011L", "BIOLÂ 2213 BIOLÂ 2211L", "BIOLÂ 2443 BIOLÂ 2441L", "CHEMÂ 2613 CHEMÂ 2611L", "CHEMÂ 3813", "PSYCÂ 2003", "HDFSÂ 2413", "NUTRÂ 1201", "NUTRÂ 1213", "NUTRÂ 2113 NUTRÂ 2111L", "HOSPÂ 2603", "HOSPÂ 2611", "NUTRÂ 3203", "NUTRÂ 3003", "NUTRÂ 3213", "NUTRÂ 3603", "HOSPÂ 3653", "NUTRÂ 4001", "NUTRÂ 4103 NUTRÂ 4101L", "NUTRÂ 4213", "NUTRÂ 4223", "NUTRÂ 4243", "NUTRÂ 4263", "NUTRÂ 4273" ],
+    "Name" : "Requirements for B.S.H.E.S. in Human Nutrition and Dietetics"
+  }, {
+    "Requirements" : [ "NUTRÂ 1213", "NUTRÂ 3203", "NUTRÂ 2113 NUTRÂ 2111L", "NUTRÂ 4213", "NUTRÂ 2203", "NUTRÂ 4223", "NUTRÂ 4243" ],
+    "Name" : "Minor in Human Nutrition"
+  }, {
+    "Requirements" : [ "MATHÂ 1313", "MATHÂ 2053", "MATHÂ 2183", "STATÂ 2303", "ECONÂ 2143", "ECONÂ 2013 ECONÂ 2023" ],
+    "Name" : "Requirements for B.S.E. in Human Resource and Workforce Development Education"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for B.S. in Industrial Engineering"
+  }, {
+    "Requirements" : [ "INEGÂ 2333", "ELEGÂ 3143", "STATÂ 2023", "STATÂ 3013", "CSCEÂ 2004", "CSCEÂ 2014", "INEGÂ 4683", "INEGÂ 4833", "ISYSÂ 2263", "STATÂ 4003", "STATÂ 4001L", "ECONÂ 4743", "ECONÂ 4753", "ISYSÂ 4193", "ISYSÂ 4293", "STATÂ 4333" ],
+    "Name" : "Minor in Data Analytics"
+  }, {
+    "Requirements" : [ "ISYSÂ 2263", "ISYSÂ 3293", "ISYSÂ 3393", "ISYSÂ 4283", "ISYSÂ 4363", "ISYSÂ 4213" ],
+    "Name" : "Requirements for B.S.B.A. in Information Systems with Business Analytics Concentration"
+  }, {
+    "Requirements" : [ "ISYSÂ 2263", "ISYSÂ 3293", "ISYSÂ 3393", "ISYSÂ 4283", "ISYSÂ 4363", "ISYSÂ 4213" ],
+    "Name" : "Requirements for B.S.B.A. in Information Systems with Enterprise Resource Planning Concentration"
+  }, {
+    "Requirements" : [ "ISYSÂ 2263", "ISYSÂ 3293", "ISYSÂ 3393", "ISYSÂ 4283", "ISYSÂ 4363", "ISYSÂ 4213" ],
+    "Name" : "Requirements for B.S.B.A. in Information Systems with Blockchain Enterprise Systems Concentration"
+  }, {
+    "Requirements" : [ "ISYSÂ 4193", "ISYSÂ 4293", "ISYSÂ 4393", "ISYSÂ 4213", "FINNÂ 3013", "ECONÂ 4743", "ECONÂ 4753", "MGMTÂ 4243", "MKTGÂ 3633", "SCMTÂ 3623" ],
+    "Name" : "Minor in Business Analytics"
+  }, {
+    "Requirements" : [ "ISYSÂ 2263", "ISYSÂ 3293", "ISYSÂ 3393", "ISYSÂ 4213", "ISYSÂ 4223" ],
+    "Name" : "Minor in Information Systems for Business Students"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Eight-Semester Plan"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for B.I.D. in Interior Design"
+  }, {
+    "Requirements" : [ "INSTÂ 2013", "INSTÂ 4003", "ECONÂ 2143", "ANTHÂ 1023", "GEOSÂ 2003", "HISTÂ 1123", "PLSCÂ 2813", "MATHÂ 2033", "MATHÂ 2043", "MATHÂ 2053", "MATHÂ 2183", "STATÂ 2303" ],
+    "Name" : "Requirements for B.A. with European and Transatlantic Affairs Concentration"
+  }, {
+    "Requirements" : [ "INSTÂ 2013", "INSTÂ 4003", "ECONÂ 2143", "ANTHÂ 1023", "GEOSÂ 2003", "HISTÂ 1123", "PLSCÂ 2813", "MATHÂ 2033", "MATHÂ 2043", "MATHÂ 2053", "MATHÂ 2183", "STATÂ 2303" ],
+    "Name" : "Requirements for B.A. with Global South Concentration"
+  }, {
+    "Requirements" : [ "INSTÂ 2013", "INSTÂ 4003", "ECONÂ 2143", "ANTHÂ 1023", "GEOSÂ 2003", "HISTÂ 1123", "PLSCÂ 2813", "MATHÂ 2033", "MATHÂ 2043", "MATHÂ 2053", "MATHÂ 2183", "STATÂ 2303" ],
+    "Name" : "Requirements for B.A. with Peace, Security and Human Rights Concentration"
+  }, {
+    "Requirements" : [ "INSTÂ 2013", "HISTÂ 3453", "HISTÂ 4473", "HIST/INST 4693", "HISTÂ 4963", "INSTÂ 3603", "INSTÂ 4003", "INSTÂ 4653", "PLSCÂ 3803", "PLSCÂ 3813", "PLSC/INST 4893" ],
+    "Name" : "Global Studies Minor"
+  }, {
+    "Requirements" : [ "MATHÂ 2033", "MATHÂ 2043", "MATHÂ 2053", "MATHÂ 2183", "STATÂ 2303", "WLITÂ 1113", "WLITÂ 1123", "PHILÂ 2003", "PHILÂ 2103", "PLSCÂ 2003", "PLSCÂ 2813", "PLSCÂ 3233", "PLSCÂ 4233", "ECONÂ 2143", "COMMÂ 1313", "ANTHÂ 4533", "COMMÂ 4343", "HISTÂ 3233", "HISTÂ 3243", "HISTÂ 3263", "JOURÂ 3263", "JOURÂ 4923", "SCWKÂ 3193", "SOCIÂ 3193", "JOURÂ 1023", "JOURÂ 1033", "JOURÂ 3633", "JOURÂ 4333", "JOURÂ 4981" ],
+    "Name" : "Requirements for B.A. in Journalism with Advertising/PR Concentration"
+  }, {
+    "Requirements" : [ "MATHÂ 2033", "MATHÂ 2043", "MATHÂ 2053", "MATHÂ 2183", "STATÂ 2303", "WLITÂ 1113", "WLITÂ 1123", "PHILÂ 2003", "PHILÂ 2103", "PLSCÂ 2003", "PLSCÂ 2813", "PLSCÂ 3233", "PLSCÂ 4233", "ECONÂ 2143", "COMMÂ 1313", "ANTHÂ 4533", "COMMÂ 4343", "HISTÂ 3233", "HISTÂ 3243", "HISTÂ 3263", "JOURÂ 3263", "JOURÂ 4923", "SCWKÂ 3193", "SOCIÂ 3193", "JOURÂ 1023", "JOURÂ 1033", "JOURÂ 3633", "JOURÂ 4333", "JOURÂ 4981" ],
+    "Name" : "Requirements for B.A. in Journalism with Broadcast Concentration"
+  }, {
+    "Requirements" : [ "MATHÂ 2033", "MATHÂ 2043", "MATHÂ 2053", "MATHÂ 2183", "STATÂ 2303", "WLITÂ 1113", "WLITÂ 1123", "PHILÂ 2003", "PHILÂ 2103", "PLSCÂ 2003", "PLSCÂ 2813", "PLSCÂ 3233", "PLSCÂ 4233", "ECONÂ 2143", "COMMÂ 1313", "ANTHÂ 4533", "COMMÂ 4343", "HISTÂ 3233", "HISTÂ 3243", "HISTÂ 3263", "JOURÂ 3263", "JOURÂ 4923", "SCWKÂ 3193", "SOCIÂ 3193", "JOURÂ 1023", "JOURÂ 1033", "JOURÂ 3633", "JOURÂ 4333", "JOURÂ 4981" ],
+    "Name" : "Requirements for B.A. in Journalism with News/Editorial Concentration"
+  }, {
+    "Requirements" : [ "MATHÂ 2033", "MATHÂ 2043", "MATHÂ 2053", "MATHÂ 2183", "STATÂ 2303", "WLITÂ 1113", "WLITÂ 1123", "PHILÂ 2003", "PHILÂ 2103", "PLSCÂ 2003", "PLSCÂ 2813", "PLSCÂ 3233", "PLSCÂ 4233", "ECONÂ 2143", "COMMÂ 1313", "ANTHÂ 4533", "COMMÂ 4343", "HISTÂ 3233", "HISTÂ 3243", "HISTÂ 3263", "SCWKÂ 3193", "JOURÂ 3263", "JOURÂ 4923", "SCWKÂ 3193", "SOCIÂ 3193" ],
+    "Name" : "Combination English/Journalism Degree"
+  }, {
+    "Requirements" : [ "MATHÂ 2033", "MATHÂ 2043", "MATHÂ 2053", "MATHÂ 2183", "STATÂ 2303", "WLITÂ 1113", "WLITÂ 1123", "PHILÂ 2003", "PHILÂ 2103", "PLSCÂ 2003", "PLSCÂ 2813", "PLSCÂ 3233", "PLSCÂ 4233", "ECONÂ 2143", "COMMÂ 1313", "ANTHÂ 4533", "COMMÂ 4343", "HISTÂ 3233", "HISTÂ 3243", "HISTÂ 3263", "SCWKÂ 3193", "JOURÂ 3263", "JOURÂ 4923", "SOCIÂ 3193" ],
+    "Name" : "Combination Journalism/Political Science Degree"
+  }, {
+    "Requirements" : [ "JOURÂ 1023", "JOURÂ 1033", "JOURÂ 2003", "JOURÂ 2053", "JOURÂ 3633", "JOURÂ 4333" ],
+    "Name" : "Minor in Journalism"
+  }, {
+    "Requirements" : [ "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 1613 BIOLÂ 1611L", "GEOSÂ 1113 GEOSÂ 1111L", "LARCÂ 1315", "LARCÂ 1325", "LARCÂ 2335", "LARCÂ 2351", "LARCÂ 2345", "LARCÂ 2361", "LARCÂ 3355", "LARCÂ 2371", "LARCÂ 3365", "LARCÂ 3381", "LARCÂ 3375", "LARCÂ 3391", "LARCÂ 4385", "LARCÂ 4311", "LARCÂ 4395", "LARCÂ 4321", "LARCÂ 2113", "LARCÂ 3123", "LARCÂ 303VH", "LARCÂ 2714", "LARCÂ 2914", "LARCÂ 3724", "LARCÂ 3734", "LARCÂ 3914", "ARCHÂ 1212", "ARCHÂ 1222", "LARCÂ 3413", "LARCÂ 4033", "LARCÂ 4413", "LARCÂ 4123", "LARCÂ 4811", "LARCÂ 5613" ],
+    "Name" : "Requirements for B.L.A. in Landscape Architectue"
+  }, {
+    "Requirements" : [ "LARCÂ 2113", "LARCÂ 2714", "LARCÂ 3914", "LARCÂ 1003", "LARCÂ 3123", "LARCÂ 303V", "LARCÂ 3413", "LARCÂ 3724", "LARCÂ 4413", "LARCÂ 5063", "HORTÂ 4043", "HORTÂ 4603" ],
+    "Name" : "Minor in Planting Design for Horticulture Majors"
+  }, {
+    "Requirements" : [ "LARCÂ 5386", "PLSCÂ 3253", "PLSCÂ 4103", "ANTHÂ 4443", "ANTHÂ 5113", "ENSCÂ 3413", "LARCÂ 4033", "LARCÂ 4743", "PLSCÂ 390V", "PLSCÂ 4283", "HDFSÂ 4603", "SCMTÂ 3443", "ARCHÂ 5493", "ARCHÂ 5933", "ANTHÂ 5113", "ENSCÂ 3413", "GEOSÂ 4073", "LARCÂ 402V", "LARCÂ 4033", "LARCÂ 4753", "LARCÂ 5053", "HDFSÂ 4603", "ANTHÂ 4443", "ANTHÂ 4603", "BIOLÂ 3863", "ENSCÂ 3223", "ENSCÂ 3221L", "ENSCÂ 3413", "LARCÂ 4033", "LARCÂ 5053", "HDFSÂ 4603" ],
+    "Name" : "Minor in Planning"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for B.S. in Landscape Architectural Studies"
+  }, {
+    "Requirements" : [ "ANTHÂ 2013", "ANTHÂ 3503", "ANTHÂ 3553", "ANTHÂ 4263", "ARHSÂ 4563", "ARHSÂ 4563H", "ARHSÂ 4573", "ARHSÂ 4573H", "ECONÂ 3843", "ECONÂ 3853", "ENGLÂ 3543", "ENGLÂ 4523", "HISTÂ 3073", "HISTÂ 3193", "HISTÂ 3203", "HISTÂ 3213", "HISTÂ 3283", "HISTÂ 3303", "HISTÂ 3313", "HISTÂ 3843", "HISTÂ 4173", "HISTÂ 4233", "HISTÂ 4443", "HISTÂ 4743", "HISTÂ 4783", "HISTÂ 4813", "HISTÂ 4823", "HISTÂ 7313", "HISTÂ 7323", "LALSÂ 2013", "LALSÂ 399VH", "LALSÂ 4003", "MUHSÂ 4253", "PLSCÂ 3263", "PLSCÂ 3573", "PLSCÂ 3593", "PLSCÂ 4793", "PLSCÂ 4873", "PORTÂ 3013", "PORTÂ 3103", "PORTÂ 3203", "SOCIÂ 3173", "SPANÂ 3103", "SPANÂ 3113", "SPANÂ 3123", "SPANÂ 4133", "SPANÂ 4193", "SPANÂ 4223", "SPANÂ 4243", "SPANÂ 4253", "SPANÂ 475V", "SPANÂ 5253", "SPANÂ 5393", "SPANÂ 5403", "SPANÂ 5463", "SPANÂ 5703", "SPANÂ 5943" ],
+    "Name" : "Requirements for Second Major in Latin American and Latino Studies"
+  }, {
+    "Requirements" : [ "MGMTÂ 4243" ],
+    "Name" : "Requirements for B.S.B.A. in Management with Human Resources Management Concentration"
+  }, {
+    "Requirements" : [ "MGMTÂ 4243" ],
+    "Name" : "Requirements for B.S.B.A. in Management with Organizational Leadership Concentration"
+  }, {
+    "Requirements" : [ "MGMTÂ 4243" ],
+    "Name" : "Requirements for B.S.B.A. in Management with Small Business and Entrepreneurship Concentration"
+  }, {
+    "Requirements" : [ "MGMTÂ 4243", "MGMTÂ 3533", "MGMTÂ 3673", "MGMTÂ 3933", "MGMTÂ 4103", "MGMTÂ 4253", "MGMTÂ 4263", "MGMTÂ 4433", "MGMTÂ 4583", "MGMTÂ 4943", "MGMTÂ 4953", "MGMTÂ 4993" ],
+    "Name" : "Minor in Management for Business Students"
+  }, {
+    "Requirements" : [ "MKTGÂ 3553", "MKTGÂ 3633", "MKTGÂ 4853", "MKTGÂ 3653", "MKTGÂ 4233", "MKTGÂ 4343", "MKTGÂ 4103", "MKTGÂ 4633", "MKTGÂ 4433", "MKTGÂ 4443", "MKTGÂ 4453", "MKTGÂ 4513" ],
+    "Name" : "Requirements for B.S.B.A. in Marketing"
+  }, {
+    "Requirements" : [ "MKTGÂ 3433", "MKTGÂ 3553", "MKTGÂ 3633", "MKTGÂ 3653", "MKTGÂ 4103", "MKTGÂ 4233", "MKTGÂ 4343", "MKTGÂ 4433", "MKTGÂ 4443", "MKTGÂ 4453", "MKTGÂ 4513", "MKTGÂ 4633" ],
+    "Name" : "Minor in Marketing for Business Students"
+  }, {
+    "Requirements" : [ "ANTHÂ 1013 ANTHÂ 1011L", "ASTRÂ 2003 ASTRÂ 2001L", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 1603 BIOLÂ 1601L", "BIOLÂ 1613 BIOLÂ 1611L", "BIOLÂ 2013 BIOLÂ 2011L", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 1133 GEOSÂ 1131L", "PHYSÂ 2054", "PHYSÂ 2074", "MATHÂ 2574", "MATHÂ 2803", "MATHÂ 3093", "MATHÂ 3113", "MATHÂ 3513", "MATHÂ 4933" ],
+    "Name" : "Requirements for B.A. in Mathematics"
+  }, {
+    "Requirements" : [ "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 1603 BIOLÂ 1601L", "BIOLÂ 1613 BIOLÂ 1611L", "BIOLÂ 2013 BIOLÂ 2011L", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 1133 GEOSÂ 1131L", "PHYSÂ 2054", "PHYSÂ 2074" ],
+    "Name" : "Requirements for B.S. in Mathematics with Concentration 1 (Applied)"
+  }, {
+    "Requirements" : [ "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 1603 BIOLÂ 1601L", "BIOLÂ 1613 BIOLÂ 1611L", "BIOLÂ 2013 BIOLÂ 2011L", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 1133 GEOSÂ 1131L", "PHYSÂ 2054", "PHYSÂ 2074" ],
+    "Name" : "Requirements for B.S. in Mathematics with Concentration 2 (Pure)"
+  }, {
+    "Requirements" : [ "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 1603 BIOLÂ 1601L", "BIOLÂ 1613 BIOLÂ 1611L", "BIOLÂ 2013 BIOLÂ 2011L", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 1133 GEOSÂ 1131L", "PHYSÂ 2054", "PHYSÂ 2074" ],
+    "Name" : "Requirements for B.S. in Mathematics with Concentration 3 (Statistics)"
+  }, {
+    "Requirements" : [ "MATHÂ 2564", "MATHÂ 2603", "MATHÂ 2574", "MATHÂ 2584", "STATÂ 3013" ],
+    "Name" : "Minor in Mathematics"
+  }, {
+    "Requirements" : [ "MATHÂ 2554" ],
+    "Name" : "Minor in Statistics"
+  }, {
+    "Requirements" : [ "ASTRÂ 2003 ASTRÂ 2001L", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 2213 BIOLÂ 2211L", "CHEMÂ 1103 CHEMÂ 1101L", "GEOSÂ 1113 GEOSÂ 1111L", "PHYSÂ 2094", "PHYSÂ 3544", "PHYSÂ 3603 PHYSÂ 360VL" ],
+    "Name" : "Requirements for B.S. in Mechanical Engineering"
+  }, {
+    "Requirements" : [ "ASTRÂ 2003 ASTRÂ 2001L", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 2213 BIOLÂ 2211L", "CHEMÂ 1103 CHEMÂ 1101L", "GEOSÂ 1113 GEOSÂ 1111L", "PHYSÂ 2094", "PHYSÂ 3544", "PHYSÂ 3603 PHYSÂ 360VL" ],
+    "Name" : "Requirements for B.S. in Mechanical Engineering with Aerospace Concentration"
+  }, {
+    "Requirements" : [ "ANTHÂ 3123", "ANTHÂ 3033", "ANTHÂ 4123", "ANTHÂ 4256", "ANTHÂ 4513", "ANTHÂ 4533", "ANTHÂ 4913", "GEOSÂ 2003", "GEOSÂ 4043", "GEOSÂ 410V", "HISTÂ 3033", "HISTÂ 3043", "HISTÂ 3473", "HISTÂ 3923H", "HISTÂ 4393", "HISTÂ 4413", "HISTÂ 4433", "HUMNÂ 2213", "HUMNÂ 425V", "MESTÂ 2003", "MESTÂ 2013", "MESTÂ 4003", "MESTÂ 4003H", "PLSCÂ 3523", "PLSCÂ 3813", "PLSCÂ 4593", "PLSCÂ 4843", "WLITÂ 3983" ],
+    "Name" : "Requirements for Second Major in Middle East Studies"
+  }, {
+    "Requirements" : [ "MLITÂ 1013", "MUSYÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "MUTHÂ 1603", "MUTHÂ 2603", "MUTHÂ 3603", "MUTHÂ 3613", "MUTHÂ 1621", "MUTHÂ 1631", "MUTHÂ 2621", "MUTHÂ 2631", "MUHSÂ 3703", "MUHSÂ 3713", "MUHSÂ 4253", "MUACÂ 2112", "MUPDÂ 3801", "MUACÂ 1221", "MUACÂ 1231", "MUACÂ 2221", "MUENÂ 1411", "MUAPÂ 110V", "MUAPÂ 210V", "MUAPÂ 310V", "MUAPÂ 3201", "MUAPÂ 410V", "MUAPÂ 4201" ],
+    "Name" : "Requirements for B.M. with Piano Performance Concentration"
+  }, {
+    "Requirements" : [ "MLITÂ 1013", "MUSYÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "MUTHÂ 1603", "MUTHÂ 2603", "MUTHÂ 3603", "MUTHÂ 3613", "MUTHÂ 1621", "MUTHÂ 1631", "MUTHÂ 2621", "MUTHÂ 2631", "MUHSÂ 3703", "MUHSÂ 3713", "MUHSÂ 4253", "MUACÂ 2112", "MUPDÂ 3801", "MUACÂ 1221", "MUACÂ 1231", "MUACÂ 2221", "MUENÂ 1411", "MUAPÂ 110V", "MUAPÂ 210V", "MUAPÂ 310V", "MUAPÂ 3201", "MUAPÂ 410V", "MUAPÂ 4201" ],
+    "Name" : "Requirements for B.M. with Voice Performance Concentration"
+  }, {
+    "Requirements" : [ "MLITÂ 1013", "MUSYÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "MUTHÂ 1603", "MUTHÂ 2603", "MUTHÂ 3603", "MUTHÂ 3613", "MUTHÂ 1621", "MUTHÂ 1631", "MUTHÂ 2621", "MUTHÂ 2631", "MUHSÂ 3703", "MUHSÂ 3713", "MUHSÂ 4253", "MUACÂ 2112", "MUPDÂ 3801", "MUACÂ 1221", "MUACÂ 1231", "MUACÂ 2221", "MUENÂ 1411", "MUAPÂ 110V", "MUAPÂ 210V", "MUAPÂ 310V", "MUAPÂ 3201", "MUAPÂ 410V", "MUAPÂ 4201" ],
+    "Name" : "Requirements for B.M. with String Performance Concentration"
+  }, {
+    "Requirements" : [ "MLITÂ 1013", "MUSYÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "MUTHÂ 1603", "MUTHÂ 2603", "MUTHÂ 3603", "MUTHÂ 3613", "MUTHÂ 1621", "MUTHÂ 1631", "MUTHÂ 2621", "MUTHÂ 2631", "MUHSÂ 3703", "MUHSÂ 3713", "MUHSÂ 4253", "MUACÂ 2112", "MUPDÂ 3801", "MUACÂ 1221", "MUACÂ 1231", "MUACÂ 2221", "MUENÂ 1411", "MUAPÂ 110V", "MUAPÂ 210V", "MUAPÂ 310V", "MUAPÂ 3201", "MUAPÂ 410V", "MUAPÂ 4201" ],
+    "Name" : "Requirements for B.M. with Woodwind, Brass or Percussion Performance Concentration"
+  }, {
+    "Requirements" : [ "MLITÂ 1013", "MUSYÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "MUTHÂ 1603", "MUTHÂ 2603", "MUTHÂ 3603", "MUTHÂ 3613", "MUTHÂ 1621", "MUTHÂ 1631", "MUTHÂ 2621", "MUTHÂ 2631", "MUHSÂ 3703", "MUHSÂ 3713", "MUHSÂ 4253", "MUACÂ 2112", "MUPDÂ 3801", "MUACÂ 1221", "MUACÂ 1231", "MUACÂ 2221", "MUENÂ 1411", "MUAPÂ 110V", "MUAPÂ 210V", "MUAPÂ 310V", "MUAPÂ 3201", "MUAPÂ 410V", "MUAPÂ 4201" ],
+    "Name" : "Requirements for B.M. with Guitar Performance Concentration"
+  }, {
+    "Requirements" : [ "MLITÂ 1013", "MUSYÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "MUTHÂ 1603", "MUTHÂ 2603", "MUTHÂ 3603", "MUTHÂ 3613", "MUTHÂ 1621", "MUTHÂ 1631", "MUTHÂ 2621", "MUTHÂ 2631", "MUHSÂ 3703", "MUHSÂ 3713", "MUHSÂ 4253", "MUACÂ 2112", "MUPDÂ 3801", "MUACÂ 1221", "MUACÂ 1231", "MUACÂ 2221", "MUENÂ 1411", "MUAPÂ 110V", "MUAPÂ 210V", "MUAPÂ 310V", "MUAPÂ 3201", "MUAPÂ 410V", "MUAPÂ 4201" ],
+    "Name" : "Requirements for B.M. with Composition Concentration"
+  }, {
+    "Requirements" : [ "MLITÂ 1013", "MUSYÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "MUTHÂ 1603", "MUTHÂ 2603", "MUTHÂ 3603", "MUTHÂ 3613", "MUTHÂ 1621", "MUTHÂ 1631", "MUTHÂ 2621", "MUTHÂ 2631", "MUHSÂ 3703", "MUHSÂ 3713", "MUHSÂ 4253", "MUACÂ 2112", "MUPDÂ 3801", "MUACÂ 1221", "MUACÂ 1231", "MUACÂ 2221", "MUENÂ 1411", "MUAPÂ 110V", "MUAPÂ 210V", "MUAPÂ 310V", "MUAPÂ 3201", "MUAPÂ 410V", "MUAPÂ 4201" ],
+    "Name" : "Requirements for B.M. with Jazz Studies Concentration"
+  }, {
+    "Requirements" : [ "MLITÂ 1013", "MUSYÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "MUTHÂ 1603", "MUTHÂ 2603", "MUTHÂ 3603", "MUTHÂ 3613", "MUTHÂ 1621", "MUTHÂ 1631", "MUTHÂ 2621", "MUTHÂ 2631", "MUHSÂ 3703", "MUHSÂ 3713", "MUHSÂ 4253", "MUACÂ 2112", "MUPDÂ 3801", "MUACÂ 1221", "MUACÂ 1231", "MUACÂ 2221", "MUENÂ 1411", "MUAPÂ 110V", "MUAPÂ 210V", "MUAPÂ 310V", "MUAPÂ 3201", "MUAPÂ 410V", "MUAPÂ 4201" ],
+    "Name" : "Requirements for B.M. with Theory Concentration"
+  }, {
+    "Requirements" : [ "MLITÂ 1013", "MUSYÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "MUTHÂ 1603", "MUTHÂ 2603", "MUTHÂ 3603", "MUTHÂ 3613", "MUTHÂ 1621", "MUTHÂ 1631", "MUTHÂ 2621", "MUTHÂ 2631", "MUHSÂ 3703", "MUHSÂ 3713", "MUHSÂ 4253", "MUACÂ 2112", "MUPDÂ 3801", "MUACÂ 1221", "MUACÂ 1231", "MUACÂ 2221", "MUENÂ 1411", "MUAPÂ 110V", "MUAPÂ 210V", "MUAPÂ 310V", "MUAPÂ 3201", "MUAPÂ 410V", "MUAPÂ 4201" ],
+    "Name" : "Requirements for B.M. in Music Education with Instrumental/Woodwind/Brass/Percussion Concentration"
+  }, {
+    "Requirements" : [ "MLITÂ 1013", "MUSYÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "MUTHÂ 1603", "MUTHÂ 2603", "MUTHÂ 3603", "MUTHÂ 3613", "MUTHÂ 1621", "MUTHÂ 1631", "MUTHÂ 2621", "MUTHÂ 2631", "MUHSÂ 3703", "MUHSÂ 3713", "MUHSÂ 4253", "MUACÂ 2112", "MUPDÂ 3801", "MUACÂ 1221", "MUACÂ 1231", "MUACÂ 2221", "MUENÂ 1411", "MUAPÂ 110V", "MUAPÂ 210V", "MUAPÂ 310V", "MUAPÂ 3201", "MUAPÂ 410V", "MUAPÂ 4201" ],
+    "Name" : "Requirements for B.M. in Music Education with Instrumental/Strings Concentration"
+  }, {
+    "Requirements" : [ "MLITÂ 1013", "MUSYÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "MUTHÂ 1603", "MUTHÂ 2603", "MUTHÂ 3603", "MUTHÂ 3613", "MUTHÂ 1621", "MUTHÂ 1631", "MUTHÂ 2621", "MUTHÂ 2631", "MUHSÂ 3703", "MUHSÂ 3713", "MUHSÂ 4253", "MUACÂ 2112", "MUPDÂ 3801", "MUACÂ 1221", "MUACÂ 1231", "MUACÂ 2221", "MUENÂ 1411", "MUAPÂ 110V", "MUAPÂ 210V", "MUAPÂ 310V", "MUAPÂ 3201", "MUAPÂ 410V", "MUAPÂ 4201" ],
+    "Name" : "Requirements for B.M. in Music Education with Choral/Voice Concentration"
+  }, {
+    "Requirements" : [ "MLITÂ 1013", "MUSYÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "MUTHÂ 1603", "MUTHÂ 2603", "MUTHÂ 3603", "MUTHÂ 3613", "MUTHÂ 1621", "MUTHÂ 1631", "MUTHÂ 2621", "MUTHÂ 2631", "MUHSÂ 3703", "MUHSÂ 3713", "MUHSÂ 4253", "MUACÂ 2112", "MUPDÂ 3801", "MUACÂ 1221", "MUACÂ 1231", "MUACÂ 2221", "MUENÂ 1411", "MUAPÂ 110V", "MUAPÂ 210V", "MUAPÂ 310V", "MUAPÂ 3201", "MUAPÂ 410V", "MUAPÂ 4201" ],
+    "Name" : "Requirements for B.M. in Music Education with Choral/Piano Concentration"
+  }, {
+    "Requirements" : [ "MLITÂ 1013", "MUSYÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "MUTHÂ 1603", "MUTHÂ 2603", "MUTHÂ 3603", "MUTHÂ 3613", "MUTHÂ 1621", "MUTHÂ 1631", "MUTHÂ 2621", "MUTHÂ 2631", "MUHSÂ 3703", "MUHSÂ 3713", "MUHSÂ 4253", "MUACÂ 2112", "MUPDÂ 3801", "MUACÂ 1221", "MUACÂ 1231", "MUACÂ 2221", "MUENÂ 1411", "MUAPÂ 110V", "MUAPÂ 210V", "MUAPÂ 310V", "MUAPÂ 3201", "MUAPÂ 410V", "MUAPÂ 4201" ],
+    "Name" : "Requirements for B.M. with Elective Studies in Business"
+  }, {
+    "Requirements" : [ "HISTÂ 1113", "HISTÂ 1123", "PHILÂ 2003", "WLITÂ 1113", "MUENÂ 1411", "MLITÂ 1013", "MUTHÂ 1603", "MUTHÂ 1621", "MUTHÂ 1631", "MUTHÂ 2603", "MUTHÂ 2621", "MUTHÂ 2631", "MUTHÂ 3603", "MUTHÂ 3613", "MUACÂ 1221", "MUACÂ 1231", "MUHSÂ 3703", "MUHSÂ 3713", "MUHSÂ 4253", "MUAPÂ 110V", "MUAPÂ 210V" ],
+    "Name" : "Requirements for B.A. in Music"
+  }, {
+    "Requirements" : [ "ENGLÂ 1013", "ENGLÂ 1023", "MATHÂ 1203", "BIOLÂ 2443 BIOLÂ 2441L", "PHILÂ 2003", "BIOLÂ 2213 BIOLÂ 2211L", "BIOLÂ 2013 BIOLÂ 2011L", "ESRMÂ 2403", "NURSÂ 2012", "NURSÂ 2032", "NURSÂ 3321L", "NURSÂ 3342" ],
+    "Name" : "Requirements for B.S.N. in Nursing"
+  }, {
+    "Requirements" : [ "NURSÂ 4003", "NURSÂ 4013", "NURSÂ 4203", "NURSÂ 4023", "NURSÂ 4323", "NURSÂ 4063", "NURSÂ 4843", "NURSÂ 4503", "NURSÂ 4313", "NURSÂ 4701", "NURSÂ 4092", "NURSÂ 2032", "NURSÂ 3313", "NURSÂ 3422", "NURSÂ 3424", "NURSÂ 3634", "NURSÂ 3644", "NURSÂ 3742", "NURSÂ 3752", "NURSÂ 4154", "NURSÂ 4164", "NURSÂ 4262", "NURSÂ 4442", "NURSÂ 4452" ],
+    "Name" : "Requirements for R.N. to B.S.N. Option"
+  }, {
+    "Requirements" : [ "NURSÂ 3111", "NURSÂ 3302", "NURSÂ 3332", "NURSÂ 3772", "NURSÂ 3782", "NURSÂ 4003", "NURSÂ 4013", "NURSÂ 4023", "NURSÂ 4063", "NURSÂ 4073", "NURSÂ 4092", "NURSÂ 4102", "NURSÂ 4124", "NURSÂ 4143", "NURSÂ 4203", "NURSÂ 4212", "NURSÂ 4313", "NURSÂ 4323", "NURSÂ 4503", "NURSÂ 4542", "NURSÂ 4552", "NURSÂ 4701", "NURSÂ 4843", "NURSÂ 2032", "NURSÂ 3313", "NURSÂ 3422", "NURSÂ 3424", "NURSÂ 3644" ],
+    "Name" : "Requirements for L.P.N./L.P.T.N. to B.S.N. Option"
+  }, {
+    "Requirements" : [ "CLSTÂ 1003", "HISTÂ 1113", "HISTÂ 1123", "PHILÂ 2003", "PHILÂ 2203", "PHILÂ 4003", "PHILÂ 4033", "PHILÂ 4983" ],
+    "Name" : "Requirements for B.A. in Philosophy"
+  }, {
+    "Requirements" : [ "PHYSÂ 2054", "PHYSÂ 2074", "PHYSÂ 2094", "PHYSÂ 3453", "PHYSÂ 3613", "PHYSÂ 4073", "PHYSÂ 4991", "MATHÂ 2554", "MATHÂ 2564", "MATHÂ 2574", "MATHÂ 2584", "MATHÂ 3083", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "CSCEÂ 2004", "CSCEÂ 2014", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 1584", "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 1133 GEOSÂ 1131L" ],
+    "Name" : "Requirements for B.S. in Physics with Astronomy Concentration"
+  }, {
+    "Requirements" : [ "PHYSÂ 2054", "PHYSÂ 2074", "PHYSÂ 2094", "PHYSÂ 3453", "PHYSÂ 3613", "PHYSÂ 4073", "PHYSÂ 4991", "MATHÂ 2554", "MATHÂ 2564", "MATHÂ 2574", "MATHÂ 2584", "MATHÂ 3083", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "CSCEÂ 2004", "CSCEÂ 2014", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 1584", "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 1133 GEOSÂ 1131L" ],
+    "Name" : "Requirements for B.S. in Physics with Biophysics Concentration"
+  }, {
+    "Requirements" : [ "PHYSÂ 2054", "PHYSÂ 2074", "PHYSÂ 2094", "PHYSÂ 3453", "PHYSÂ 3613", "PHYSÂ 4073", "PHYSÂ 4991", "MATHÂ 2554", "MATHÂ 2564", "MATHÂ 2574", "MATHÂ 2584", "MATHÂ 3083", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "CSCEÂ 2004", "CSCEÂ 2014", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 1584", "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 1133 GEOSÂ 1131L" ],
+    "Name" : "Requirements for B.S. in Physics with Computational Concentration"
+  }, {
+    "Requirements" : [ "PHYSÂ 2054", "PHYSÂ 2074", "PHYSÂ 2094", "PHYSÂ 3453", "PHYSÂ 3613", "PHYSÂ 4073", "PHYSÂ 4991", "MATHÂ 2554", "MATHÂ 2564", "MATHÂ 2574", "MATHÂ 2584", "MATHÂ 3083", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "CSCEÂ 2004", "CSCEÂ 2014", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 1584", "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 1133 GEOSÂ 1131L" ],
+    "Name" : "Requirements for B.S. in Physics with Electronics Concentration"
+  }, {
+    "Requirements" : [ "PHYSÂ 2054", "PHYSÂ 2074", "PHYSÂ 2094", "PHYSÂ 3453", "PHYSÂ 3613", "PHYSÂ 4073", "PHYSÂ 4991", "MATHÂ 2554", "MATHÂ 2564", "MATHÂ 2574", "MATHÂ 2584", "MATHÂ 3083", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "CSCEÂ 2004", "CSCEÂ 2014", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 1584", "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 1133 GEOSÂ 1131L" ],
+    "Name" : "Requirements for B.S. in Geophysics Concentration"
+  }, {
+    "Requirements" : [ "PHYSÂ 2054", "PHYSÂ 2074", "PHYSÂ 2094", "PHYSÂ 3453", "PHYSÂ 3613", "PHYSÂ 4073", "PHYSÂ 4991", "MATHÂ 2554", "MATHÂ 2564", "MATHÂ 2574", "MATHÂ 2584", "MATHÂ 3083", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "CSCEÂ 2004", "CSCEÂ 2014", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 1584", "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 1133 GEOSÂ 1131L" ],
+    "Name" : "Requirements for B.S. in Physics with Optics Concentration"
+  }, {
+    "Requirements" : [ "PHYSÂ 2054", "PHYSÂ 2074", "PHYSÂ 2094", "PHYSÂ 3453", "PHYSÂ 3613", "PHYSÂ 4073", "PHYSÂ 4991", "MATHÂ 2554", "MATHÂ 2564", "MATHÂ 2574", "MATHÂ 2584", "MATHÂ 3083", "CHEMÂ 1103 CHEMÂ 1101L", "CHEMÂ 1123 CHEMÂ 1121L", "CSCEÂ 2004", "CSCEÂ 2014", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 1584", "GEOSÂ 1113 GEOSÂ 1111L", "GEOSÂ 1133 GEOSÂ 1131L" ],
+    "Name" : "Requirements for B.S. in Physics with Professional Concentration"
+  }, {
+    "Requirements" : [ "PHYSÂ 2013 PHYSÂ 2011L", "PHYSÂ 2033 PHYSÂ 2031L", "PHYSÂ 3603 PHYSÂ 360VL", "PHYSÂ 4991", "MATHÂ 1284C", "MATHÂ 2554" ],
+    "Name" : "Requirements for B.A. in Physics"
+  }, {
+    "Requirements" : [ "PHYSÂ 2013 PHYSÂ 2011L PHYSÂ 2033 PHYSÂ 2031L", "PHYSÂ 2054 PHYSÂ 2074" ],
+    "Name" : "Minor in Physics"
+  }, {
+    "Requirements" : [ "PHILÂ 2003", "STATÂ 2303", "MATHÂ 2033", "MATHÂ 2043", "MATHÂ 2183", "MATHÂ 2554" ],
+    "Name" : "Requirements for B.A. in Political Science"
+  }, {
+    "Requirements" : [ "UNIVÂ 1001", "COMMÂ 1313", "AGECÂ 2403", "STATÂ 2303", "AGSTÂ 4023", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 2013 BIOLÂ 2011L", "CHEMÂ 1073 CHEMÂ 1071L", "CHEMÂ 1103 CHEMÂ 1101L CHEMÂ 1123 CHEMÂ 1121L", "CHEMÂ 2613 CHEMÂ 2611L", "CHEMÂ 3603 CHEMÂ 3601L CHEMÂ 3613 CHEMÂ 3611L", "AGECÂ 1103", "POSCÂ 1002", "POSCÂ 1012", "POSCÂ 2343", "POSCÂ 2353", "POSCÂ 3223", "POSCÂ 3554", "POSCÂ 3123", "POSCÂ 4333", "BIOLÂ 2323", "POSCÂ 4314", "POSCÂ 4343", "AGECÂ 2303", "PHYSÂ 2013 PHYSÂ 2011L", "PHYSÂ 2033 PHYSÂ 2031L", "POSCÂ 3032", "POSCÂ 3042", "POSCÂ 4213", "POSCÂ 4801", "POSCÂ 4811", "POSCÂ 4821", "POSCÂ 4831", "POSCÂ 3013", "POSCÂ 3381", "POSCÂ 400V", "POSCÂ 401V", "POSCÂ 4033", "POSCÂ 4233", "POSCÂ 4923" ],
+    "Name" : "Requirements for B.S.A. in Poultry Science"
+  }, {
+    "Requirements" : [ "POSCÂ 1002", "POSCÂ 1012", "POSCÂ 2343", "POSCÂ 2353" ],
+    "Name" : "Minor in Poultry Science"
+  }, {
+    "Requirements" : [ "POSCÂ 3032", "POSCÂ 3042", "POSCÂ 3223", "POSCÂ 3554", "POSCÂ 4213", "POSCÂ 4314", "POSCÂ 4343", "POSCÂ 4801", "POSCÂ 4811", "POSCÂ 401V", "POSCÂ 410V" ],
+    "Name" : "Certificate of Excellence in Poultry Science"
+  }, {
+    "Requirements" : [ "PHILÂ 2003", "MATHÂ 2043", "MATHÂ 2053", "MATHÂ 2554", "PSYCÂ 2003", "PSYCÂ 2013", "PSYCÂ 3073", "PSYCÂ 3013", "PSYCÂ 3023", "PSYCÂ 3093", "PSYCÂ 4053", "PSYCÂ 4063", "PSYCÂ 3103", "PSYCÂ 4073", "PSYCÂ 4123", "PSYCÂ 4143", "PSYCÂ 4183", "PSYCÂ 4193", "PSYCÂ 4083", "PSYCÂ 4283" ],
+    "Name" : "Requirements for B.A. in Psychology"
+  }, {
+    "Requirements" : [ "PSYCÂ 2003", "PSYCÂ 2013", "PSYCÂ 3073" ],
+    "Name" : "Minor in Psychology"
+  }, {
+    "Requirements" : [ "PSYCÂ 2003", "SOCIÂ 2013", "BIOLÂ 1543 BIOLÂ 1541L", "CHEMÂ 1103 CHEMÂ 1101L", "PBHLÂ 1103", "PBHLÂ 3202", "PBHLÂ 3443", "PBHLÂ 3643", "PBHLÂ 4043", "ENSCÂ 1003 ENSCÂ 1001L", "PBHLÂ 4603", "PBHLÂ 4613", "PBHLÂ 4643", "ENGLÂ 3053", "STATÂ 2303", "PBHLÂ 1203", "PBHLÂ 1303", "NUTRÂ 1213", "COMMÂ 1313", "PBHLÂ 2663", "SCWKÂ 4183", "PSYCÂ 3093", "BIOLÂ 2013 BIOLÂ 2011L", "BIOLÂ 2443 BIOLÂ 2441L", "BIOLÂ 2213 BIOLÂ 2211L" ],
+    "Name" : "Requirements for B.S. in Public Health"
+  }, {
+    "Requirements" : [ "PLSCÂ 2003", "PSYCÂ 2003", "SOCIÂ 2013", "ECONÂ 2143", "COMMÂ 1313", "RESMÂ 1003", "RESMÂ 2011", "RESMÂ 2063", "RESMÂ 2093", "RESMÂ 2813", "RESMÂ 2853", "RESMÂ 3833", "RESMÂ 3843", "RESMÂ 3873", "RESMÂ 3883", "RESMÂ 4083", "RESMÂ 4003", "RESMÂ 4013", "RESMÂ 440V", "RESMÂ 1023", "RESMÂ 3023", "RESMÂ 4023", "RESMÂ 405V", "RESMÂ 4273", "RESMÂ 480V" ],
+    "Name" : "Requirements for B.S. in Recreation and Sport Management"
+  }, {
+    "Requirements" : [ "MKTGÂ 3553", "MKTGÂ 3633", "MKTGÂ 4433", "MKTGÂ 4443", "ACCTÂ 3723", "ACCTÂ 3753", "ACCTÂ 4673", "ECONÂ 3033", "ECONÂ 3133", "ECONÂ 4333", "ECONÂ 4633", "ECONÂ 4643", "FINNÂ 3013", "FINNÂ 3053", "FINNÂ 3603", "FINNÂ 3623", "FINNÂ 3703", "FINNÂ 3933", "ISYSÂ 2263", "ISYSÂ 4213", "ISYSÂ 4243", "ISYSÂ 4293", "MGMTÂ 3933", "MGMTÂ 4243", "MGMTÂ 4253", "MGMTÂ 4263", "MGMTÂ 4433", "MGMTÂ 4583", "MGMTÂ 4943", "MGMTÂ 4953", "MKTGÂ 3653", "MKTGÂ 4003H", "MKTGÂ 4103", "MKTGÂ 4233", "MKTGÂ 4343", "MKTGÂ 4513", "MKTGÂ 4633", "MKTGÂ 4853", "SCMTÂ 3443", "SCMTÂ 3613", "SCMTÂ 3653", "ACCTÂ 3723", "ECONÂ 3033", "ECONÂ 3133", "ECONÂ 4333", "ECONÂ 4633", "ECONÂ 4643", "FINNÂ 3013", "FINNÂ 3053", "FINNÂ 3603", "FINNÂ 3623", "FINNÂ 3703", "FINNÂ 3933", "FINNÂ 4833", "ISYSÂ 2263", "ISYSÂ 4243", "ISYSÂ 4213", "MGMTÂ 4243", "MGMTÂ 4253", "MGMTÂ 4263", "MGMTÂ 4943", "MGMTÂ 4953", "MGMTÂ 4433", "MKTGÂ 3633", "MKTGÂ 3653", "MKTGÂ 4233", "MKTGÂ 4343", "MKTGÂ 4633", "SCMTÂ 3443", "SCMTÂ 3613", "SCMTÂ 3653" ],
+    "Name" : "Requirements for B.S.B.A. in Retail"
+  }, {
+    "Requirements" : [ "MKTGÂ 3433", "MKTGÂ 3553", "MKTGÂ 4433", "MKTGÂ 4443", "FINNÂ 3013", "ISYSÂ 4213", "MKTGÂ 3653", "MKTGÂ 4233", "MKTGÂ 4453", "SCMTÂ 3613" ],
+    "Name" : "Minor in Retail for Business Students"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for B.A.T. in Social Studies Education"
+  }, {
+    "Requirements" : [ "SCWKÂ 4073", "SCWKÂ 4103", "SCWKÂ 4333", "SCWKÂ 4343", "SCWKÂ 4733", "SCWKÂ 4434", "SCWKÂ 4412", "SCWKÂ 4444", "SCWKÂ 4422" ],
+    "Name" : "Requirements for B.S.W. in Social Work"
+  }, {
+    "Requirements" : [ "MATHÂ 2033", "MATHÂ 2043", "MATHÂ 2053", "MATHÂ 2183", "MATHÂ 2554", "ENGLÂ 2003", "SOCIÂ 2013", "SOCIÂ 3193", "SOCIÂ 3223", "SOCIÂ 3301L", "SOCIÂ 3303", "SOCIÂ 3313", "SOCIÂ 3423", "SOCIÂ 4043" ],
+    "Name" : "Requirements for B.A. in Sociology"
+  }, {
+    "Requirements" : [ "PHILÂ 2003", "HISTÂ 1113", "HISTÂ 1123", "ARABÂ 3016", "ARABÂ 4016", "ARABÂ 4023" ],
+    "Name" : "Requirements for B.A. in Arabic"
+  }, {
+    "Requirements" : [ "FRENÂ 3003", "FRENÂ 3113", "FRENÂ 4003", "FRENÂ 4033", "FRENÂ 4213" ],
+    "Name" : "Requirements for B.A. in French"
+  }, {
+    "Requirements" : [ "FRENÂ 3003", "FRENÂ 3113", "FRENÂ 4003", "FRENÂ 4033", "FRENÂ 4213" ],
+    "Name" : "Requirements for Additional Major in French for Non-Arts and Sciences Students"
+  }, {
+    "Requirements" : [ "GERMÂ 3003", "GERMÂ 3013", "GERMÂ 4003", "GERMÂ 4213", "GERMÂ 3033" ],
+    "Name" : "Requirements for B.A. in German"
+  }, {
+    "Requirements" : [ "GERMÂ 3003", "GERMÂ 3013", "GERMÂ 3033", "GERMÂ 4003", "GERMÂ 4213" ],
+    "Name" : "Requirements for Additional Major in German for Non-Arts and Sciences Students"
+  }, {
+    "Requirements" : [ "SPANÂ 3003", "SPANÂ 3033", "SPANÂ 3103", "SPANÂ 3113", "SPANÂ 4003" ],
+    "Name" : "Requirements for B.A. in Spanish"
+  }, {
+    "Requirements" : [ "SPANÂ 3003", "SPANÂ 3103", "SPANÂ 3033", "SPANÂ 3113", "SPANÂ 4003", "SPANÂ 4623" ],
+    "Name" : "Requirements for Additional Major in Spanish for Non-Arts and Sciences Students"
+  }, {
+    "Requirements" : [ "ARABÂ 3016", "ARABÂ 4016", "ARABÂ 4023" ],
+    "Name" : "Minor in Arabic"
+  }, {
+    "Requirements" : [ "FRENÂ 3003", "FRENÂ 3113", "FRENÂ 4003", "FRENÂ 4033" ],
+    "Name" : "Minor in French"
+  }, {
+    "Requirements" : [ "GERMÂ 3003", "GERMÂ 4003", "GERMÂ 4213" ],
+    "Name" : "Minor in German"
+  }, {
+    "Requirements" : [ "ITALÂ 3033", "ITALÂ 3113", "ITALÂ 3123", "ITALÂ 4033", "ITALÂ 3103", "ITALÂ 3983" ],
+    "Name" : "Minor in Italian"
+  }, {
+    "Requirements" : [ "SPANÂ 3003", "SPANÂ 3103", "SPANÂ 3113", "SPANÂ 4003", "SPANÂ 3033" ],
+    "Name" : "Minor in Spanish"
+  }, {
+    "Requirements" : [ "SPANÂ 3003", "SPANÂ 3103", "SPANÂ 4003", "SPANÂ 4333", "SPANÂ 3033" ],
+    "Name" : "Minor in Spanish for the Professions"
+  }, {
+    "Requirements" : [ "CHINÂ 3003", "CHINÂ 3033", "CHINÂ 3103", "CHINÂ 4333", "CHINÂ 3983", "CHINÂ 4313" ],
+    "Name" : "Minors in World Languages with Business Orientation"
+  }, {
+    "Requirements" : [ ],
+    "Name" : "Requirements for B.A.T. in Spanish Education"
+  }, {
+    "Requirements" : [ "HDFSÂ 2413", "COMMÂ 1313", "MATHÂ 2213", "MATHÂ 2223", "CIEDÂ 3262", "CIEDÂ 3023", "CIEDÂ 3033", "SPEDÂ 4423", "SPEDÂ 4173", "SPEDÂ 4413", "SPEDÂ 4433", "SPEDÂ 4443", "SPEDÂ 4453", "SPEDÂ 4463", "SPEDÂ 4473", "SPEDÂ 4483", "SPEDÂ 4493", "SPEDÂ 4538", "SPEDÂ 4543", "SPEDÂ 4553", "SPEDÂ 4568", "SPEDÂ 4573", "SPEDÂ 4583" ],
+    "Name" : "Requirements for B.S.E. in Special Education"
+  }, {
+    "Requirements" : [ "SCMTÂ 3443", "SCMTÂ 3613", "SCMTÂ 3623", "SCMTÂ 3643", "SCMTÂ 4653" ],
+    "Name" : "Requirements for B.S.B.A. in Supply Chain Management"
+  }, {
+    "Requirements" : [ "SCMTÂ 3443", "SCMTÂ 3613", "ISYSÂ 4213", "SCMTÂ 3623", "SCMTÂ 3633", "SCMTÂ 3643", "SCMTÂ 3653", "SCMTÂ 4003H", "SCMTÂ 4103", "SCMTÂ 4123", "SCMTÂ 4633", "SCMTÂ 4653", "SCMTÂ 4853" ],
+    "Name" : "Minor in Supply Chain Management for Business Students"
+  }, {
+    "Requirements" : [ "PSYCÂ 2003", "BIOLÂ 1543 BIOLÂ 1541L", "BIOLÂ 2443 BIOLÂ 2441L", "PBHLÂ 1103", "COMMÂ 1313", "PHEDÂ 1003", "PHEDÂ 2023", "PHEDÂ 2373", "PHEDÂ 3163", "PHEDÂ 3203", "PHEDÂ 3223", "PHEDÂ 3413", "PHEDÂ 3573", "PHEDÂ 3623", "PHEDÂ 3903", "CIEDÂ 3033", "CNEDÂ 4003", "EXSCÂ 3013", "PHEDÂ 3003", "PHEDÂ 3033", "PHEDÂ 3043", "PHEDÂ 432V", "PHEDÂ 4743", "PHEDÂ 4703", "PHEDÂ 4023", "PHEDÂ 407V", "PHEDÂ 4733" ],
+    "Name" : "Requirements for B.S.E. in Teaching K-12 Physical Education and Health"
+  }, {
+    "Requirements" : [ "HISTÂ 1113", "WLITÂ 1113", "PHILÂ 2003" ],
+    "Name" : "Requirements for B.A. in Theatre with Design and Technology Concentration"
+  }, {
+    "Requirements" : [ "HISTÂ 1113", "WLITÂ 1113", "PHILÂ 2003" ],
+    "Name" : "Requirements for B.A. in Theatre with Performance Concentration"
+  } ]
+}

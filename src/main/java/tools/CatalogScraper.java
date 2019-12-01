@@ -51,7 +51,31 @@ public class CatalogScraper extends AbstractWebScraper {
 
 						// subject and number get their own fields for easier search implementation
 						jsonCourse.put("subject", basicInfo.substring(0, 4)); // e.g. ACCT
-						jsonCourse.put("number", basicInfo.substring(5, basicInfo.indexOf(". "))); // e.g. 2013
+						String number = basicInfo.substring(5, basicInfo.indexOf(". "));
+						jsonCourse.put("number", number); // e.g. 2013
+
+						if (number.charAt(0) == '1') {
+							jsonCourse.put("level", "freshman");
+						} else if (number.charAt(0) == '2') {
+							jsonCourse.put("level", "sophomore");
+						} else if (number.charAt(0) == '3') {
+							jsonCourse.put("level", "junior");
+						} else if (number.charAt(0) == '4') {
+							jsonCourse.put("level", "senior");
+						} else if (Integer.parseInt(number.substring(0, 1)) > 4) {
+							jsonCourse.put("level", "graduate");
+						} else {
+							jsonCourse.put("level", "other");
+						}
+
+						jsonCourse.put("honors", number.contains("H") ? 1 : 0);
+						jsonCourse.put("lab", number.contains("L") ? 1 : 0);
+						if (number.contains("M")) {
+							jsonCourse.put("honors", 1);
+							jsonCourse.put("lab", 1);
+						}
+						jsonCourse.put("drill", number.contains("C") ? 1 : 0);
+						jsonCourse.put("variable", number.contains("V") ? 1 : 0);
 
 						// unique identifier, for easy linking to prereqs (subject code + course #, eg:
 						// ACCT2013)
@@ -61,7 +85,14 @@ public class CatalogScraper extends AbstractWebScraper {
 						jsonCourse.put("name", basicInfo.substring(0, basicInfo.indexOf(". ")));
 
 						basicInfo = basicInfo.substring(basicInfo.indexOf(". ") + 1).stripLeading();
-						jsonCourse.put("hours", basicInfo.substring(0, basicInfo.indexOf(" Hour")));
+						basicInfo = basicInfo.substring(0, basicInfo.indexOf(" Hour"));
+						while (basicInfo.contains(" ")) {
+							basicInfo = basicInfo.substring(basicInfo.indexOf(' ') + 1);
+						}
+						jsonCourse.put("minhours", basicInfo.substring(0,
+								basicInfo.contains("-") ? basicInfo.indexOf('-') : basicInfo.length()));
+						basicInfo = basicInfo.substring(basicInfo.contains("-") ? basicInfo.indexOf('-') + 1 : 0);
+						jsonCourse.put("maxhours", basicInfo);
 
 						Element description = course.get(j).select("p:eq(1)").get(0);
 						jsonCourse.put("description", description.text());
@@ -73,7 +104,7 @@ public class CatalogScraper extends AbstractWebScraper {
 						Elements htmlPrereqs = description.children();
 						while (!htmlPrereqs.isEmpty()) {
 							if (htmlPrereqs.get(0).hasAttr("href")) {
-								jsonPrereqs.add(htmlPrereqs.select("a").get(0).text());
+								jsonPrereqs.add(htmlPrereqs.select("a").get(0).text().replaceAll(" ", ""));
 							}
 							htmlPrereqs.remove(0);
 						}
