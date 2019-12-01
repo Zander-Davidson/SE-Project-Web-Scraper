@@ -99,7 +99,7 @@ public abstract class AbstractWebScraper {
 			// use Jackson PrettyPrinter to format the JSON nicely (so that it isn't all in
 			// one ugly line)
 
-			file.write(new ObjectMapper().writeValueAsString(json));
+			file.write(new ObjectMapper().writeValueAsString(json).replace('\\', '"'));
 			file.flush();
 
 			// file.write(new
