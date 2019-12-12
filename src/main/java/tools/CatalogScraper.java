@@ -10,6 +10,7 @@ import org.jsoup.select.Elements;
 public class CatalogScraper extends AbstractWebScraper {
 
 	public static JSONArray JSON_COURSE_LIST = new JSONArray();
+	public static JSONArray JSON_SUBJECT_LIST = new JSONArray();
 	private ArrayList<Element> fSubject = new ArrayList<Element>();
 
 	public CatalogScraper() {
@@ -30,6 +31,13 @@ public class CatalogScraper extends AbstractWebScraper {
 
 		// loop through the subject list on UARK catalog site
 		for (int i = 1; i < fSubject.size(); i++) {
+			JSONObject subject = new JSONObject();
+
+			String subjectName = fSubject.get(i).selectFirst("a").text();
+			subject.put("subjectCode", subjectName.substring(subjectName.length() - 5, subjectName.length() - 1));
+			subject.put("subjectName", subjectName);
+			JSON_SUBJECT_LIST.add(subject);
+
 			// each subject contains a link to a page with the courses of that subject =>
 			// instantiate an anonymous instance of an AbstractWebScraper for a subject and
 			// scrape the data for its courses
@@ -117,8 +125,12 @@ public class CatalogScraper extends AbstractWebScraper {
 		}
 
 		// pass the completed JSON course list to the file-writing method
-		JSONObject json = new JSONObject();
-		json.put("Courses", JSON_COURSE_LIST);
-		writeJSON("src\\main\\resources\\courses.json", json);
+		JSONObject jsonCourses = new JSONObject();
+		jsonCourses.put("Courses", JSON_COURSE_LIST);
+		writeJSON("src\\main\\resources\\courses.json", jsonCourses);
+
+		JSONObject jsonSubjects = new JSONObject();
+		jsonSubjects.put("Subjects", JSON_SUBJECT_LIST);
+		writeJSON("src\\main\\resources\\subjects.json", jsonSubjects);
 	}
 }
